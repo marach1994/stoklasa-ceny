@@ -1,0 +1,31 @@
+name: Denní aktualizace marží
+
+on:
+  schedule:
+    # Každý den v 6:00 UTC (7:00 CET / 8:00 CEST)
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Ruční spuštění
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Stáhnout a spočítat marže
+        run: python mamtex_marze.py
+
+      - name: Commit a push změn
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add marze_export.csv
+          git diff --staged --quiet || git commit -m "Aktualizace marží $(date +'%Y-%m-%d')"
+          git push
