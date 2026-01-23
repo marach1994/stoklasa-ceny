@@ -40,6 +40,17 @@ def parse_cenu(hodnota):
     return float(hodnota.replace(',', '.').replace(' ', ''))
 
 
+def zaokrouhli_na_5(hodnota):
+    """Zaokrouhlí cenu na nejbližší 5 Kč (27→30, 51→50, 63→65)."""
+    zbytek = hodnota % 5
+    if zbytek == 0:
+        return int(hodnota)
+    elif zbytek == 1:
+        return int(hodnota - 1)  # dolů
+    else:
+        return int(hodnota + (5 - zbytek))  # nahoru
+
+
 def spocitej_marzi(produkty):
     """Spočítá marži pro každý produkt."""
     vysledky = []
@@ -50,6 +61,7 @@ def spocitej_marzi(produkty):
 
         marze_kc = prodejni - nakupni
         marze_procent = ((prodejni - nakupni) / prodejni * 100) if prodejni > 0 else 0
+        multishop = zaokrouhli_na_5(prodejni)
 
         vysledky.append({
             'Kód produktu': p.get('code', ''),
@@ -57,7 +69,8 @@ def spocitej_marzi(produkty):
             'Nákupní cena': nakupni,
             'Prodejní cena': prodejni,
             'Marže Kč': round(marze_kc, 2),
-            'Marže %': round(marze_procent, 2)
+            'Marže %': round(marze_procent, 2),
+            'Multishop': multishop
         })
 
     return vysledky
@@ -67,7 +80,7 @@ def uloz_csv(vysledky, soubor):
     """Uloží výsledky do CSV souboru."""
     with open(soubor, 'w', newline='', encoding='windows-1250') as f:
         writer = csv.DictWriter(f, fieldnames=[
-            'Kód produktu', 'Název', 'Nákupní cena', 'Prodejní cena', 'Marže Kč', 'Marže %'
+            'Kód produktu', 'Název', 'Nákupní cena', 'Prodejní cena', 'Marže Kč', 'Marže %', 'Multishop'
         ], delimiter=';')
         writer.writeheader()
         writer.writerows(vysledky)
