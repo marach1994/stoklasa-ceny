@@ -31,4 +31,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add marze_export.csv
           git diff --staged --quiet || git commit -m "Aktualizace marží $(date +'%Y-%m-%d')"
+          git pull --rebase || true
           git push
