@@ -5,7 +5,7 @@ import io
 from datetime import datetime
 
 # URL pro stažení CSV
-URL = 'https://www.mamtex.cz/export/products.csv?patternId=279&partnerId=8&hash=98f603114b86c6b8be3cc9563c71ce983ce16ff98eb32df69d8cb32b73ada2ba'
+URL = 'https://www.mamtex.cz/export/products.csv?patternId=279&partnerId=8&hash=98f603114b86c6b8be3cc9563c71ce983ce16ff98eb32df69d8cb32b73ada2ba&supplierId=316'
 
 # Výstupní soubor
 OUTPUT_FILE = 'marze_export.csv'
@@ -17,7 +17,7 @@ def stahni_csv(url):
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
 
-    with urllib.request.urlopen(url, context=ctx, timeout=120) as response:
+    with urllib.request.urlopen(url, context=ctx, timeout=300) as response:
         return response.read().decode('windows-1250')
 
 
@@ -40,12 +40,12 @@ def spocitej_marzi(produkty):
         marze_procent = ((prodejni - nakupni) / prodejni * 100) if prodejni > 0 else 0
 
         vysledky.append({
-            'code': p.get('code', ''),
-            'name': p.get('name', ''),
-            'nakupni_cena': nakupni,
-            'prodejni_cena': prodejni,
-            'marze_kc': round(marze_kc, 2),
-            'marze_procent': round(marze_procent, 2)
+            'Kód produktu': p.get('code', ''),
+            'Název': p.get('name', ''),
+            'Nákupní cena': nakupni,
+            'Prodejní cena': prodejni,
+            'Marže Kč': round(marze_kc, 2),
+            'Marže %': round(marze_procent, 2)
         })
 
     return vysledky
@@ -53,9 +53,9 @@ def spocitej_marzi(produkty):
 
 def uloz_csv(vysledky, soubor):
     """Uloží výsledky do CSV souboru."""
-    with open(soubor, 'w', newline='', encoding='utf-8') as f:
+    with open(soubor, 'w', newline='', encoding='windows-1250') as f:
         writer = csv.DictWriter(f, fieldnames=[
-            'code', 'name', 'nakupni_cena', 'prodejni_cena', 'marze_kc', 'marze_procent'
+            'Kód produktu', 'Název', 'Nákupní cena', 'Prodejní cena', 'Marže Kč', 'Marže %'
         ], delimiter=';')
         writer.writeheader()
         writer.writerows(vysledky)
@@ -76,7 +76,7 @@ def main():
     print(f"Uloženo do {OUTPUT_FILE}")
 
     # Statistiky
-    prumerna_marze = sum(v['marze_procent'] for v in vysledky) / len(vysledky) if vysledky else 0
+    prumerna_marze = sum(v['Marže %'] for v in vysledky) / len(vysledky) if vysledky else 0
     print(f"Průměrná marže: {prumerna_marze:.2f}%")
 
 
