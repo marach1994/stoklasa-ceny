@@ -2,6 +2,7 @@ import urllib.request
 import ssl
 import csv
 import io
+import time
 from datetime import datetime
 
 # URL pro stažení CSV
@@ -11,14 +12,25 @@ URL = 'https://www.mamtex.cz/export/products.csv?patternId=279&partnerId=8&hash=
 OUTPUT_FILE = 'marze_export.csv'
 
 
-def stahni_csv(url):
+def stahni_csv(url, max_pokusu=3):
     """Stáhne CSV z URL a vrátí obsah jako string."""
     ctx = ssl.create_default_context()
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
 
-    with urllib.request.urlopen(url, context=ctx, timeout=300) as response:
-        return response.read().decode('windows-1250')
+    headers = {'User-Agent': 'Mozilla/5.0 (compatible; MarzeBot/1.0)'}
+    req = urllib.request.Request(url, headers=headers)
+
+    for pokus in range(max_pokusu):
+        try:
+            with urllib.request.urlopen(req, context=ctx, timeout=600) as response:
+                return response.read().decode('windows-1250')
+        except Exception as e:
+            print(f"Pokus {pokus + 1}/{max_pokusu} selhal: {e}")
+            if pokus < max_pokusu - 1:
+                time.sleep(10)
+            else:
+                raise
 
 
 def parse_cenu(hodnota):
