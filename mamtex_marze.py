@@ -41,7 +41,7 @@ def parse_cenu(hodnota):
 
 
 def zaokrouhli_na_5(hodnota):
-    """Zaokrouhlí cenu na nejbližší 5 Kč (27→30, 51→50, 63→65)."""
+    """Zaokrouhlí hodnotu na nejbližší 5 (27→30, 51→50, 63→65)."""
     zbytek = hodnota % 5
     if zbytek == 0:
         return int(hodnota)
@@ -61,7 +61,7 @@ def spocitej_marzi(produkty):
 
         marze_kc = prodejni - nakupni
         marze_procent = ((prodejni - nakupni) / prodejni * 100) if prodejni > 0 else 0
-        multishop = zaokrouhli_na_5(prodejni)
+        multishop = zaokrouhli_na_5(marze_procent)
 
         vysledky.append({
             'Kód produktu': p.get('code', ''),
