@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -27,7 +27,11 @@ jobs:
         run: python mamtex_marze.py
 
       - name: Commit a push změn
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Aktualizace marží ${{ github.run_id }}"
-          file_pattern: 'marze_export.csv'
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git fetch origin main
+          git reset --soft origin/main
+          git add marze_export.csv
+          git commit -m "Aktualizace marží $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
+          git push origin main
