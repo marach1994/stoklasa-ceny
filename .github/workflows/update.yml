@@ -38,4 +38,4 @@ jobs:
           git pull origin main --rebase
           git add marze_export.csv
           git diff --staged --quiet || git commit -m "Aktualizace marží $(date +'%Y-%m-%d')"
-          git push origin main --force-with-lease
+          git push origin main --force
