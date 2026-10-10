@@ -23,6 +23,8 @@ jobs:
 
       - name: Run script
         run: python mamtex_marze.py
+        env:
+          MAMTEX_FEED_URL: ${{ secrets.MAMTEX_FEED_URL }}
 
       - name: Push changes
         run: |
