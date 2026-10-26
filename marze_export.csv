@@ -254,7 +254,7 @@ Kód produktu;Název;Nákupní cena;Prodejní cena;Mare Kè;Mare %;Multishop
 109596/171962;"Plastové patentky / stiskací knoflíky vel. 20""";130.0;157.3;27.3;17.36;20
 109596/171963;"Plastové patentky / stiskací knoflíky vel. 20""";200.0;0.0;-200.0;0;0
 109596/171964;"Plastové patentky / stiskací knoflíky vel. 20""";118.0;162.1;44.1;27.21;30
-109596/197386;"Plastové patentky / stiskací knoflíky vel. 20""";110.0;174.2;64.2;36.85;40
+109596/197386;"Plastové patentky / stiskací knoflíky vel. 20""";118.0;162.1;44.1;27.21;30
 109596/197445;"Plastové patentky / stiskací knoflíky vel. 20""";120.0;147.6;27.6;18.7;20
 109596/197498;"Plastové patentky / stiskací knoflíky vel. 20""";110.0;174.2;64.2;36.85;40
 109596/209446;"Plastové patentky / stiskací knoflíky vel. 20""";118.0;162.1;44.1;27.21;30
@@ -353,16 +353,16 @@ Kód produktu;Název;Nákupní cena;Prodejní cena;Mare Kè;Mare %;Multishop
 86496/198776;Sada zapínání na tašku 50x25 mm;817.0;898.4;81.4;9.06;10
 86496/216093;Sada zapínání na tašku 50x25 mm;900.0;0.0;-900.0;0;0
 86496/223857;Sada zapínání na tašku 50x25 mm;857.5;943.2;85.7;9.09;10
-145753/140483;Sada zapínání na tašku 25x33 mm;407.5;448.3;40.8;9.1;10
-145753/228302;Sada zapínání na tašku 25x33 mm;407.5;448.3;40.8;9.1;10
-145753/228303;Sada zapínání na tašku 25x33 mm;407.5;448.3;40.8;9.1;10
-44636/140483;Sada zapínání na tašku 25x33 mm;16.3;30.6;14.3;46.73;50
-44636/228302;Sada zapínání na tašku 25x33 mm;16.3;30.6;14.3;46.73;50
-44636/228303;Sada zapínání na tašku 25x33 mm;16.3;30.6;14.3;46.73;50
+145753/140483;Sada zapínání na tašku 25x33 mm;383.5;421.7;38.2;9.06;10
+145753/228302;Sada zapínání na tašku 25x33 mm;383.5;421.7;38.2;9.06;10
+145753/228303;Sada zapínání na tašku 25x33 mm;383.5;421.7;38.2;9.06;10
+44636/140483;Sada zapínání na tašku 25x33 mm;15.34;28.8;13.46;46.74;50
+44636/228302;Sada zapínání na tašku 25x33 mm;15.34;28.8;13.46;46.74;50
+44636/228303;Sada zapínání na tašku 25x33 mm;15.34;28.8;13.46;46.74;50
 44636/236157;Sada zapínání na tašku 25x33 mm;22.3;47.0;24.7;52.55;55
-44819/140483;Sada zapínání na tašku 25x33 mm;81.5;99.6;18.1;18.17;20
-44819/228302;Sada zapínání na tašku 25x33 mm;81.5;99.6;18.1;18.17;20
-44819/228303;Sada zapínání na tašku 25x33 mm;81.5;99.6;18.1;18.17;20
+44819/140483;Sada zapínání na tašku 25x33 mm;76.7;93.8;17.1;18.23;20
+44819/228302;Sada zapínání na tašku 25x33 mm;76.7;93.8;17.1;18.23;20
+44819/228303;Sada zapínání na tašku 25x33 mm;76.7;93.8;17.1;18.23;20
 51081/148458;Bavlnìná ucha na tašky délka 70 cm;119.96;225.3;105.34;46.76;50
 51081/206922;Bavlnìná ucha na tašky délka 70 cm;156.82;265.0;108.18;40.82;45
 70990/148458;Bavlnìná ucha na tašky délka 70 cm;1764.25;1940.5;176.25;9.08;10
@@ -5107,9 +5107,9 @@ Kód produktu;Název;Nákupní cena;Prodejní cena;Mare Kè;Mare %;Multishop
 114311/280482;Pérko / zapínání na vırobu mincovky 14x140 mm;7.34;15.5;8.16;52.65;55
 151756/147180;Pérko / zapínání na vırobu mincovky 14x140 mm;1200.0;0.0;-1200.0;0;0
 151756/280482;Pérko / zapínání na vırobu mincovky 14x140 mm;932.0;1464.1;532.1;36.34;40
-163632/280482;Pérko / zapínání na vırobu mincovky 14x140 mm;1101.0;1208.8;107.8;8.92;10
+163632/280482;Pérko / zapínání na vırobu mincovky 14x140 mm;1164.0;1281.4;117.4;9.16;10
 50198/147180;Pérko / zapínání na vırobu mincovky 14x140 mm;60.0;0.0;-60.0;0;0
-50198/280482;Pérko / zapínání na vırobu mincovky 14x140 mm;36.7;50.5;13.8;27.33;30
+50198/280482;Pérko / zapínání na vırobu mincovky 14x140 mm;38.8;47.4;8.6;18.14;20
 101363/142522;Prodlouení obvodu podprsenky šíøe 30 mm dvouøadé;508.0;559.0;51.0;9.12;10
 101363/270447;Prodlouení obvodu podprsenky šíøe 30 mm dvouøadé;508.0;559.0;51.0;9.12;10
 101363/72476;Prodlouení obvodu podprsenky šíøe 30 mm dvouøadé;508.0;559.0;51.0;9.12;10
@@ -13476,22 +13476,22 @@ Kód produktu;Název;Nákupní cena;Prodejní cena;Mare Kè;Mare %;Multishop
 163167/27319;Køída v tuce se štìteèkem blistr 3 ks;362.1;398.4;36.3;9.11;10
 23934/27319;Køída v tuce se štìteèkem blistr 3 ks;662.16;728.3;66.14;9.08;10
 38362/27319;Køída v tuce se štìteèkem blistr 3 ks;24.14;58.3;34.16;58.59;60
-104542/188934;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;16.54;20.2;3.66;18.12;20
+104542/188934;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;15.44;18.9;3.46;18.31;20
 104542/188935;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;15.93;19.5;3.57;18.31;20
-104542/188936;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;16.54;20.2;3.66;18.12;20
+104542/188936;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;15.44;18.9;3.46;18.31;20
 104542/188937;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;27.0;0.0;-27.0;0;0
 104542/188938;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;14.7;18.0;3.3;18.33;20
-104542/188939;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;16.54;20.2;3.66;18.12;20
-104542/201613;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;16.54;20.2;3.66;18.12;20
+104542/188939;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;15.44;18.9;3.46;18.31;20
+104542/201613;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;15.44;18.9;3.46;18.31;20
 104542/217219;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;14.7;18.0;3.3;18.33;20
 104542/256455;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;13.48;16.5;3.02;18.3;20
 104542/256456;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;16.34;22.5;6.16;27.38;30
-108288/188934;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;148.86;163.8;14.94;9.12;10
+108288/188934;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;138.96;152.8;13.84;9.06;10
 108288/188935;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;154.35;169.8;15.45;9.1;10
-108288/188936;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;148.86;163.8;14.94;9.12;10
+108288/188936;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;138.96;152.8;13.84;9.06;10
 108288/188938;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;132.3;145.6;13.3;9.13;10
-108288/188939;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;148.86;163.8;14.94;9.12;10
-108288/201613;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;148.86;163.8;14.94;9.12;10
+108288/188939;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;138.96;152.8;13.84;9.06;10
+108288/201613;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;138.96;152.8;13.84;9.06;10
 108288/217219;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;132.3;145.6;13.3;9.13;10
 108288/256455;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;132.3;145.6;13.3;9.13;10
 108288/256456;Síovaná pruenka šíøe 70 mm pro vırobu tutu sukınek;147.06;161.7;14.64;9.05;10
@@ -13928,21 +13928,21 @@ Kód produktu;Název;Nákupní cena;Prodejní cena;Mare Kè;Mare %;Multishop
 122371/151105;Jezdec ke spirálovım zipùm No 3;68.0;106.5;38.5;36.15;40
 148850/151104;Jezdec ke spirálovım zipùm No 3;136.0;150.0;14.0;9.33;10
 148850/151105;Jezdec ke spirálovım zipùm No 3;136.0;150.0;14.0;9.33;10
-109198/150795;Jezdec ke spirálovım zipùm No 3;119.5;164.0;44.5;27.13;30
-109198/151055;Jezdec ke spirálovım zipùm No 3;119.5;164.0;44.5;27.13;30
-109198/151056;Jezdec ke spirálovım zipùm No 3;119.5;164.0;44.5;27.13;30
-109198/226251;Jezdec ke spirálovım zipùm No 3;119.5;164.0;44.5;27.13;30
-109198/246082;Jezdec ke spirálovım zipùm No 3;119.5;164.0;44.5;27.13;30
-53104/150795;Jezdec ke spirálovım zipùm No 3;29.0;50.5;21.5;42.57;45
-53104/151055;Jezdec ke spirálovım zipùm No 3;29.0;50.5;21.5;42.57;45
-53104/151056;Jezdec ke spirálovım zipùm No 3;29.0;50.5;21.5;42.57;45
-53104/226251;Jezdec ke spirálovım zipùm No 3;29.0;50.5;21.5;42.57;45
-53104/246082;Jezdec ke spirálovım zipùm No 3;29.0;50.5;21.5;42.57;45
-53438/150795;Jezdec ke spirálovım zipùm No 3;239.0;262.6;23.6;8.99;10
-53438/151055;Jezdec ke spirálovım zipùm No 3;239.0;262.6;23.6;8.99;10
-53438/151056;Jezdec ke spirálovım zipùm No 3;239.0;262.6;23.6;8.99;10
-53438/226251;Jezdec ke spirálovım zipùm No 3;239.0;262.6;23.6;8.99;10
-53438/246082;Jezdec ke spirálovım zipùm No 3;239.0;262.6;23.6;8.99;10
+109198/150795;Jezdec ke spirálovım zipùm No 3;126.5;154.3;27.8;18.02;20
+109198/151055;Jezdec ke spirálovım zipùm No 3;126.5;154.3;27.8;18.02;20
+109198/151056;Jezdec ke spirálovım zipùm No 3;126.5;154.3;27.8;18.02;20
+109198/226251;Jezdec ke spirálovım zipùm No 3;126.5;154.3;27.8;18.02;20
+109198/246082;Jezdec ke spirálovım zipùm No 3;126.5;154.3;27.8;18.02;20
+53104/150795;Jezdec ke spirálovım zipùm No 3;29.0;47.4;18.4;38.82;40
+53104/151055;Jezdec ke spirálovım zipùm No 3;29.0;47.4;18.4;38.82;40
+53104/151056;Jezdec ke spirálovım zipùm No 3;29.0;47.4;18.4;38.82;40
+53104/226251;Jezdec ke spirálovım zipùm No 3;29.0;47.4;18.4;38.82;40
+53104/246082;Jezdec ke spirálovım zipùm No 3;29.0;47.4;18.4;38.82;40
+53438/150795;Jezdec ke spirálovım zipùm No 3;253.0;278.3;25.3;9.09;10
+53438/151055;Jezdec ke spirálovım zipùm No 3;253.0;278.3;25.3;9.09;10
+53438/151056;Jezdec ke spirálovım zipùm No 3;253.0;278.3;25.3;9.09;10
+53438/226251;Jezdec ke spirálovım zipùm No 3;253.0;278.3;25.3;9.09;10
+53438/246082;Jezdec ke spirálovım zipùm No 3;253.0;278.3;25.3;9.09;10
 127100/157353;Jezdec ke kostìnım zipùm No 5 oboustrannı pøeklápìcí;551.0;606.2;55.2;9.11;10
 127100/157354;Jezdec ke kostìnım zipùm No 5 oboustrannı pøeklápìcí;551.0;0.0;-551.0;0;0
 58128/157353;Jezdec ke kostìnım zipùm No 5 oboustrannı pøeklápìcí;65.0;133.0;68.0;51.13;55
@@ -14131,7 +14131,7 @@ Kód produktu;Název;Nákupní cena;Prodejní cena;Mare Kè;Mare %;Multishop
 145833/263576;Jezdec ke spirálovım zipùm No 5 ozdobnı;838.0;922.0;84.0;9.11;10
 145833/263577;Jezdec ke spirálovım zipùm No 5 ozdobnı;838.0;922.0;84.0;9.11;10
 145833/268041;Jezdec ke spirálovım zipùm No 5 ozdobnı;600.0;0.0;-600.0;0;0
-145833/278282;Jezdec ke spirálovım zipùm No 5 ozdobnı;762.0;839.7;77.7;9.25;10
+145833/278282;Jezdec ke spirálovım zipùm No 5 ozdobnı;838.0;922.0;84.0;9.11;10
 120738/175811;Koncovka na spirálovı, kostìnı a kovovı zip;635.0;699.4;64.4;9.21;10
 120738/190189;Koncovka na spirálovı, kostìnı a kovovı zip;635.0;699.4;64.4;9.21;10
 120738/248479;Koncovka na spirálovı, kostìnı a kovovı zip;635.0;699.4;64.4;9.21;10
@@ -15666,28 +15666,28 @@ Kód produktu;Název;Nákupní cena;Prodejní cena;Mare Kè;Mare %;Multishop
 142666/259805;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;18.0;26.5;8.5;32.08;35
 142666/259806;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;18.0;21.5;3.5;16.28;20
 142666/259807;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;18.0;24.8;6.8;27.42;30
-142666/259808;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;18.0;20.9;2.9;13.88;15
-142666/269312;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;11.11;20.9;9.79;46.84;50
-142666/269313;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;11.11;20.9;9.79;46.84;50
-142666/269314;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;11.11;20.9;9.79;46.84;50
+142666/259808;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;18.0;19.4;1.4;7.22;10
+142666/269312;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;10.32;19.4;9.08;46.8;50
+142666/269313;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;10.32;19.4;9.08;46.8;50
+142666/269314;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;10.32;19.4;9.08;46.8;50
 142667/259803;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;114.7;140.1;25.4;18.13;20
 142667/259804;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;97.0;118.6;21.6;18.21;20
 142667/259805;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;156.8;172.6;15.8;9.15;10
 142667/259806;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;117.6;161.8;44.2;27.32;30
 142667/259807;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;156.8;172.6;15.8;9.15;10
-142667/259808;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;111.1;135.9;24.8;18.25;20
-142667/269312;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;111.1;135.9;24.8;18.25;20
-142667/269313;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;111.1;135.9;24.8;18.25;20
-142667/269314;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;111.1;135.9;24.8;18.25;20
+142667/259808;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;103.2;126.1;22.9;18.16;20
+142667/269312;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;103.2;126.1;22.9;18.16;20
+142667/269313;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;103.2;126.1;22.9;18.16;20
+142667/269314;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;103.2;126.1;22.9;18.16;20
 142906/259803;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;274.5;301.9;27.4;9.08;10
 142906/259804;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;242.5;266.8;24.3;9.11;10
 142906/259805;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;291.5;320.7;29.2;9.11;10
 142906/259806;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;313.75;344.9;31.15;9.03;10
 142906/259807;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;313.75;344.9;31.15;9.03;10
-142906/259808;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;277.75;305.5;27.75;9.08;10
-142906/269312;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;277.75;305.5;27.75;9.08;10
-142906/269313;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;277.75;305.5;27.75;9.08;10
-142906/269314;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;277.75;305.5;27.75;9.08;10
+142906/259808;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;258.0;283.8;25.8;9.09;10
+142906/269312;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;258.0;283.8;25.8;9.09;10
+142906/269313;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;258.0;283.8;25.8;9.09;10
+142906/269314;Kostìnı zip No 5 délka 90 cm s ozdobnım jezdcem;258.0;283.8;25.8;9.09;10
 51845/149430;Kostìnı zip No 4 délka 16 cm se štrasovımi kamínky;24.5;18.9;-5.6;-29.63;-25
 97213/149430;Kostìnı zip No 4 délka 16 cm se štrasovımi kamínky;386.0;424.4;38.4;9.05;10
 145705/263473;Kostìnı zip extra velkı No 20 délka 80 cm, 90 cm;29.4;38.6;9.2;23.83;25
@@ -18873,23 +18873,23 @@ Kód produktu;Název;Nákupní cena;Prodejní cena;Mare Kè;Mare %;Multishop
 97201/73641;Pštrosí peøí délka cca 20-25 cm;725.2;797.6;72.4;9.08;10
 112379/116572;Slepièí peøí délka 6-20 cm;65.0;102.9;37.9;36.83;40
 112379/236027;Slepièí peøí délka 6-20 cm;75.0;117.4;42.4;36.12;40
-112379/65918;Slepièí peøí délka 6-20 cm;71.0;112.5;41.5;36.89;40
-112379/65924;Slepièí peøí délka 6-20 cm;71.0;112.5;41.5;36.89;40
+112379/65918;Slepièí peøí délka 6-20 cm;67.0;105.3;38.3;36.37;40
+112379/65924;Slepièí peøí délka 6-20 cm;67.0;105.3;38.3;36.37;40
 112379/80430;Slepièí peøí délka 6-20 cm;70.0;110.1;40.1;36.42;40
-112379/96367;Slepièí peøí délka 6-20 cm;71.0;112.5;41.5;36.89;40
+112379/96367;Slepièí peøí délka 6-20 cm;67.0;105.3;38.3;36.37;40
 9377/116572;Slepièí peøí délka 6-20 cm;13.0;31.5;18.5;58.73;60
 9377/236027;Slepièí peøí délka 6-20 cm;14.0;33.6;19.6;58.33;60
-9377/65918;Slepièí peøí délka 6-20 cm;14.2;34.4;20.2;58.72;60
-9377/65924;Slepièí peøí délka 6-20 cm;14.2;34.4;20.2;58.72;60
+9377/65918;Slepièí peøí délka 6-20 cm;13.4;32.4;19.0;58.64;60
+9377/65924;Slepièí peøí délka 6-20 cm;13.4;32.4;19.0;58.64;60
 9377/80430;Slepièí peøí délka 6-20 cm;13.0;31.5;18.5;58.73;60
 9377/96357;Slepièí peøí délka 6-20 cm;11.2;27.1;15.9;58.67;60
-9377/96367;Slepièí peøí délka 6-20 cm;14.2;34.4;20.2;58.72;60
+9377/96367;Slepièí peøí délka 6-20 cm;13.4;32.4;19.0;58.64;60
 96952/116572;Slepièí peøí délka 6-20 cm;130.0;142.8;12.8;8.96;10
 96952/236027;Slepièí peøí délka 6-20 cm;150.0;164.6;14.6;8.87;10
-96952/65918;Slepièí peøí délka 6-20 cm;142.0;157.3;15.3;9.73;10
-96952/65924;Slepièí peøí délka 6-20 cm;142.0;157.3;15.3;9.73;10
+96952/65918;Slepièí peøí délka 6-20 cm;134.0;147.6;13.6;9.21;10
+96952/65924;Slepièí peøí délka 6-20 cm;134.0;147.6;13.6;9.21;10
 96952/80430;Slepièí peøí délka 6-20 cm;150.0;164.6;14.6;8.87;10
-96952/96367;Slepièí peøí délka 6-20 cm;142.0;157.3;15.3;9.73;10
+96952/96367;Slepièí peøí délka 6-20 cm;134.0;147.6;13.6;9.21;10
 10043/252510;Hvìzda z drátu O50 mm;201.6;316.8;115.2;36.36;40
 10043/64130;Hvìzda z drátu O50 mm;201.6;316.8;115.2;36.36;40
 10043/64131;Hvìzda z drátu O50 mm;280.0;0.0;-280.0;0;0
@@ -20055,9 +20055,9 @@ Kód produktu;Název;Nákupní cena;Prodejní cena;Mare Kè;Mare %;Multishop
 138854/180891;Plastová krabièka / dóza O74 mm;960.0;1056.3;96.3;9.12;10
 73524/180891;Plastová krabièka / dóza O74 mm;9.6;18.0;8.4;46.67;50
 73650/180891;Plastová krabièka / dóza O74 mm;96.0;117.4;21.4;18.23;20
-111950/182361;Døevìná hlavièka / velikonoèní vajíèko 25x40 mm;228.75;251.7;22.95;9.12;10
-74463/182361;Døevìná hlavièka / velikonoèní vajíèko 25x40 mm;9.15;17.2;8.05;46.8;50
-76951/182361;Døevìná hlavièka / velikonoèní vajíèko 25x40 mm;45.75;55.9;10.15;18.16;20
+111950/182361;Døevìná hlavièka / velikonoèní vajíèko 25x40 mm;212.25;233.5;21.25;9.1;10
+74463/182361;Døevìná hlavièka / velikonoèní vajíèko 25x40 mm;8.49;16.0;7.51;46.94;50
+76951/182361;Døevìná hlavièka / velikonoèní vajíèko 25x40 mm;42.45;51.9;9.45;18.21;20
 100246/182767;Døevìnı krouek vnìjší O24 mm;7.1;13.3;6.2;46.62;50
 100544/182767;Døevìnı krouek vnìjší O24 mm;355.0;387.2;32.2;8.32;10
 74704/182767;Døevìnı krouek vnìjší O24 mm;35.5;43.0;7.5;17.44;20
@@ -22156,10 +22156,10 @@ Kód produktu;Název;Nákupní cena;Prodejní cena;Mare Kè;Mare %;Multishop
 149094/268193;Dárková krabièka domeèek se stuhou;13.08;16.0;2.92;18.25;20
 149095/268192;Dárková krabièka domeèek se stuhou;274.32;301.9;27.58;9.14;10
 149095/268193;Dárková krabièka domeèek se stuhou;274.32;301.9;27.58;9.14;10
-149096/268069;Vánoèní dárková krabièka Mikuláš;58.8;71.9;13.1;18.22;20
-149096/268070;Vánoèní dárková krabièka Mikuláš;58.8;71.9;13.1;18.22;20
-149097/268069;Vánoèní dárková krabièka Mikuláš;117.6;129.5;11.9;9.19;10
-149097/268070;Vánoèní dárková krabièka Mikuláš;117.6;129.5;11.9;9.19;10
+149096/268069;Vánoèní dárková krabièka Mikuláš;52.32;63.9;11.58;18.12;20
+149096/268070;Vánoèní dárková krabièka Mikuláš;52.32;63.9;11.58;18.12;20
+149097/268069;Vánoèní dárková krabièka Mikuláš;104.64;115.0;10.36;9.01;10
+149097/268070;Vánoèní dárková krabièka Mikuláš;104.64;115.0;10.36;9.01;10
 149084/268185;Vánoèní dárková krabièka s prùhledem snìhulák, strom;86.28;105.4;19.12;18.14;20
 149084/268186;Vánoèní dárková krabièka s prùhledem snìhulák, strom;78.36;95.8;17.44;18.2;20
 149085/268185;Vánoèní dárková krabièka s prùhledem snìhulák, strom;172.56;189.6;17.04;8.99;10
@@ -22567,10 +22567,10 @@ Kód produktu;Název;Nákupní cena;Prodejní cena;Mare Kè;Mare %;Multishop
 150882/271700;Košíèky do plavek / korzetù s perforací soft velikost 36;12.34;20.9;8.56;40.96;45
 150883/271700;Košíèky do plavek / korzetù s perforací soft velikost 36;37.02;40.7;3.68;9.04;10
 150884/271700;Košíèky do plavek / korzetù s perforací soft velikost 36;308.5;339.4;30.9;9.1;10
-150863/271679;Tvarující vycpávky na zadek;11.37;13.9;2.53;18.2;20
-150863/271680;Tvarující vycpávky na zadek;11.37;13.9;2.53;18.2;20
-150864/271679;Tvarující vycpávky na zadek;56.85;62.6;5.75;9.19;10
-150864/271680;Tvarující vycpávky na zadek;56.85;62.6;5.75;9.19;10
+150863/271679;Tvarující vycpávky na zadek;12.63;34.7;22.07;63.6;65
+150863/271680;Tvarující vycpávky na zadek;12.63;34.7;22.07;63.6;65
+150864/271679;Tvarující vycpávky na zadek;63.15;69.5;6.35;9.14;10
+150864/271680;Tvarující vycpávky na zadek;63.15;69.5;6.35;9.14;10
 151455/272537;Vıztu do plavek s perforací velikost 44 2. jakost;23.96;29.3;5.34;18.23;20
 151456/272537;Vıztu do plavek s perforací velikost 44 2. jakost;95.84;117.1;21.26;18.16;20
 151457/272537;Vıztu do plavek s perforací velikost 44 2. jakost;479.2;527.1;47.9;9.09;10
@@ -22734,14 +22734,14 @@ Kód produktu;Název;Nákupní cena;Prodejní cena;Mare Kè;Mare %;Multishop
 98651/211332;Cestovní šitíèko;10.84;26.2;15.36;58.63;60
 98652/211332;Cestovní šitíèko;108.4;170.4;62.0;36.38;40
 98653/211332;Cestovní šitíèko;1084.0;1193.1;109.1;9.14;10
-138390/253599;Magnetické pouzdro k šicímu stroji s náplní;107.47;131.4;23.93;18.21;20
-138390/253606;Magnetické pouzdro k šicímu stroji s náplní;107.47;131.4;23.93;18.21;20
-138390/292028;Magnetické pouzdro k šicímu stroji s náplní;107.47;131.4;23.93;18.21;20
-138390/292029;Magnetické pouzdro k šicímu stroji s náplní;107.47;131.4;23.93;18.21;20
-138391/253599;Magnetické pouzdro k šicímu stroji s náplní;429.88;472.9;43.02;9.1;10
+138390/253599;Magnetické pouzdro k šicímu stroji s náplní;101.15;123.6;22.45;18.16;20
+138390/253606;Magnetické pouzdro k šicímu stroji s náplní;101.15;123.6;22.45;18.16;20
+138390/292028;Magnetické pouzdro k šicímu stroji s náplní;101.15;123.6;22.45;18.16;20
+138390/292029;Magnetické pouzdro k šicímu stroji s náplní;101.15;123.6;22.45;18.16;20
+138391/253599;Magnetické pouzdro k šicímu stroji s náplní;404.6;445.0;40.4;9.08;10
 138391/253606;Magnetické pouzdro k šicímu stroji s náplní;499.48;0.0;-499.48;0;0
-138391/292028;Magnetické pouzdro k šicímu stroji s náplní;429.88;472.9;43.02;9.1;10
-138391/292029;Magnetické pouzdro k šicímu stroji s náplní;429.88;472.9;43.02;9.1;10
+138391/292028;Magnetické pouzdro k šicímu stroji s náplní;404.6;445.0;40.4;9.08;10
+138391/292029;Magnetické pouzdro k šicímu stroji s náplní;404.6;445.0;40.4;9.08;10
 142685/259549;Jezdec ke kostìnım zipùm No 3;33.4;70.5;37.1;52.62;55
 142685/275038;Jezdec ke kostìnım zipùm No 3;33.4;70.5;37.1;52.62;55
 142685/275039;Jezdec ke kostìnım zipùm No 3;33.4;70.5;37.1;52.62;55
@@ -24001,7 +24001,7 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 88946/201628;Náprstek silikonovı mìkkı;271.2;298.1;26.9;9.02;10
 93836/201628;Náprstek silikonovı mìkkı;13.56;32.7;19.14;58.53;60
 97535/201628;Náprstek silikonovı mìkkı;67.8;106.5;38.7;36.34;40
-90204/203441;"Strojové jehly do prùmyslovıch strojù Groz - Beckert DP 70; 80; 90; 100";81.68;99.8;18.12;18.16;20
+90204/203441;"Strojové jehly do prùmyslovıch strojù Groz - Beckert DP 70; 80; 90; 100";73.51;89.8;16.29;18.14;20
 90204/203442;"Strojové jehly do prùmyslovıch strojù Groz - Beckert DP 70; 80; 90; 100";73.51;89.8;16.29;18.14;20
 90204/203443;"Strojové jehly do prùmyslovıch strojù Groz - Beckert DP 70; 80; 90; 100";73.51;89.8;16.29;18.14;20
 90204/208259;"Strojové jehly do prùmyslovıch strojù Groz - Beckert DP 70; 80; 90; 100";73.51;89.8;16.29;18.14;20
@@ -25004,11 +25004,11 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 41321/134665;"Knoflík na potahování velikost 20""";31.0;76.2;45.2;59.32;60
 41451/134664;"Knoflík na potahování velikost 20""";310.0;496.1;186.1;37.51;40
 41451/134665;"Knoflík na potahování velikost 20""";310.0;496.1;186.1;37.51;40
-105634/134525;"Knoflík na potahování velikost 24""";840.0;907.5;67.5;7.44;10
+105634/134525;"Knoflík na potahování velikost 24""";990.0;1089.0;99.0;9.09;10
 105634/134822;"Knoflík na potahování velikost 24""";990.0;1089.0;99.0;9.09;10
 41323/134525;"Knoflík na potahování velikost 24""";33.0;79.9;46.9;58.7;60
 41323/134822;"Knoflík na potahování velikost 24""";33.0;79.9;46.9;58.7;60
-41646/134525;"Knoflík na potahování velikost 24""";280.0;435.6;155.6;35.72;40
+41646/134525;"Knoflík na potahování velikost 24""";330.0;520.3;190.3;36.58;40
 41646/134822;"Knoflík na potahování velikost 24""";330.0;520.3;190.3;36.58;40
 113546/136218;PP sáèek s lepicí klopou a závìsem 6x15 cm;280.0;302.5;22.5;7.44;10
 152071/136218;PP sáèek s lepicí klopou a závìsem 6x15 cm;10080.0;0.0;-10080.0;0;0
@@ -25599,31 +25599,31 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 141332/163898;Perla k našití / knoflík O9 mm;93.0;146.4;53.4;36.48;40
 141345/163898;Perla k našití / knoflík O9 mm;465.0;514.3;49.3;9.59;10
 77029/163898;Perla k našití / knoflík O9 mm;18.6;45.0;26.4;58.67;60
-64647/167351;Døevìnı dekoraèní knoflík srdce;51.5;81.1;29.6;36.5;40
-64647/167352;Døevìnı dekoraèní knoflík srdce;51.5;81.1;29.6;36.5;40
+64647/167351;Døevìnı dekoraèní knoflík srdce;48.0;75.6;27.6;36.51;40
+64647/167352;Døevìnı dekoraèní knoflík srdce;48.0;75.6;27.6;36.51;40
 64647/167353;Døevìnı dekoraèní knoflík srdce;51.5;81.1;29.6;36.5;40
-64647/198751;Døevìnı dekoraèní knoflík srdce;51.5;81.1;29.6;36.5;40
+64647/198751;Døevìnı dekoraèní knoflík srdce;48.0;75.6;27.6;36.51;40
 64647/198752;Døevìnı dekoraèní knoflík srdce;65.0;101.6;36.6;36.02;40
-64647/215684;Døevìnı dekoraèní knoflík srdce;51.5;81.1;29.6;36.5;40
-64647/236948;Døevìnı dekoraèní knoflík srdce;51.5;81.1;29.6;36.5;40
-64647/243497;Døevìnı dekoraèní knoflík srdce;51.5;81.1;29.6;36.5;40
-94503/167351;Døevìnı dekoraèní knoflík srdce;10.3;24.8;14.5;58.47;60
-94503/167352;Døevìnı dekoraèní knoflík srdce;10.3;24.8;14.5;58.47;60
-94503/167353;Døevìnı dekoraèní knoflík srdce;10.3;24.8;14.5;58.47;60
-94503/198751;Døevìnı dekoraèní knoflík srdce;10.3;24.8;14.5;58.47;60
+64647/215684;Døevìnı dekoraèní knoflík srdce;48.0;75.6;27.6;36.51;40
+64647/236948;Døevìnı dekoraèní knoflík srdce;48.0;75.6;27.6;36.51;40
+64647/243497;Døevìnı dekoraèní knoflík srdce;48.0;75.6;27.6;36.51;40
+94503/167351;Døevìnı dekoraèní knoflík srdce;9.6;23.2;13.6;58.62;60
+94503/167352;Døevìnı dekoraèní knoflík srdce;9.6;23.2;13.6;58.62;60
+94503/167353;Døevìnı dekoraèní knoflík srdce;9.6;23.2;13.6;58.62;60
+94503/198751;Døevìnı dekoraèní knoflík srdce;9.6;23.2;13.6;58.62;60
 94503/198752;Døevìnı dekoraèní knoflík srdce;19.6;33.2;13.6;40.96;45
-94503/215684;Døevìnı dekoraèní knoflík srdce;10.3;24.8;14.5;58.47;60
-94503/236948;Døevìnı dekoraèní knoflík srdce;10.3;24.8;14.5;58.47;60
-94503/243497;Døevìnı dekoraèní knoflík srdce;10.3;24.8;14.5;58.47;60
-94503/254213;Døevìnı dekoraèní knoflík srdce;10.3;24.8;14.5;58.47;60
-96846/167351;Døevìnı dekoraèní knoflík srdce;206.0;227.5;21.5;9.45;10
-96846/167352;Døevìnı dekoraèní knoflík srdce;206.0;227.5;21.5;9.45;10
+94503/215684;Døevìnı dekoraèní knoflík srdce;9.6;23.2;13.6;58.62;60
+94503/236948;Døevìnı dekoraèní knoflík srdce;9.6;23.2;13.6;58.62;60
+94503/243497;Døevìnı dekoraèní knoflík srdce;9.6;23.2;13.6;58.62;60
+94503/254213;Døevìnı dekoraèní knoflík srdce;9.6;23.2;13.6;58.62;60
+96846/167351;Døevìnı dekoraèní knoflík srdce;192.0;210.5;18.5;8.79;10
+96846/167352;Døevìnı dekoraèní knoflík srdce;192.0;210.5;18.5;8.79;10
 96846/167353;Døevìnı dekoraèní knoflík srdce;234.0;256.5;22.5;8.77;10
-96846/198751;Døevìnı dekoraèní knoflík srdce;206.0;227.5;21.5;9.45;10
+96846/198751;Døevìnı dekoraèní knoflík srdce;192.0;210.5;18.5;8.79;10
 96846/198752;Døevìnı dekoraèní knoflík srdce;260.0;285.6;25.6;8.96;10
-96846/215684;Døevìnı dekoraèní knoflík srdce;206.0;227.5;21.5;9.45;10
+96846/215684;Døevìnı dekoraèní knoflík srdce;192.0;210.5;18.5;8.79;10
 96846/236948;Døevìnı dekoraèní knoflík srdce;206.0;227.5;21.5;9.45;10
-96846/243497;Døevìnı dekoraèní knoflík srdce;206.0;227.5;21.5;9.45;10
+96846/243497;Døevìnı dekoraèní knoflík srdce;192.0;210.5;18.5;8.79;10
 104938/167345;Døevìnı dekoraèní knoflík hvìzda;11.4;27.6;16.2;58.7;60
 104938/167346;Døevìnı dekoraèní knoflík hvìzda;21.8;36.8;15.0;40.76;45
 104938/167347;Døevìnı dekoraèní knoflík hvìzda;11.4;27.6;16.2;58.7;60
@@ -26082,16 +26082,16 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 135558/251361;"Knoflík ombré velikost 34"", 40"", 44""";143.0;174.9;31.9;18.24;20
 135558/251362;"Knoflík ombré velikost 34"", 40"", 44""";157.0;172.4;15.4;8.93;10
 135558/251363;"Knoflík ombré velikost 34"", 40"", 44""";114.5;140.4;25.9;18.45;20
-135558/251364;"Knoflík ombré velikost 34"", 40"", 44""";111.5;136.1;24.6;18.07;20
+135558/251364;"Knoflík ombré velikost 34"", 40"", 44""";103.5;126.5;23.0;18.18;20
 135558/253286;"Knoflík ombré velikost 34"", 40"", 44""";114.5;140.4;25.9;18.45;20
 135558/253288;"Knoflík ombré velikost 34"", 40"", 44""";132.5;161.5;29.0;17.96;20
-135558/253289;"Knoflík ombré velikost 34"", 40"", 44""";111.5;136.1;24.6;18.07;20
+135558/253289;"Knoflík ombré velikost 34"", 40"", 44""";103.5;126.5;23.0;18.18;20
 135559/251322;"Knoflík ombré velikost 34"", 40"", 44""";212.0;232.3;20.3;8.74;10
 135559/251323;"Knoflík ombré velikost 34"", 40"", 44""";223.0;244.4;21.4;8.76;10
 135559/251361;"Knoflík ombré velikost 34"", 40"", 44""";286.0;314.6;28.6;9.09;10
 135559/251362;"Knoflík ombré velikost 34"", 40"", 44""";300.0;330.3;30.3;9.17;10
 135559/251363;"Knoflík ombré velikost 34"", 40"", 44""";229.0;251.7;22.7;9.02;10
-135559/251364;"Knoflík ombré velikost 34"", 40"", 44""";223.0;244.4;21.4;8.76;10
+135559/251364;"Knoflík ombré velikost 34"", 40"", 44""";207.0;227.5;20.5;9.01;10
 135559/253286;"Knoflík ombré velikost 34"", 40"", 44""";229.0;251.7;22.7;9.02;10
 135559/253288;"Knoflík ombré velikost 34"", 40"", 44""";265.0;291.6;26.6;9.12;10
 135559/253289;"Knoflík ombré velikost 34"", 40"", 44""";223.0;244.4;21.4;8.76;10
@@ -33658,27 +33658,27 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 152967/275695;Pletací inylková pøíze Betynka 100 g;353.95;428.6;74.65;17.42;20
 152967/275696;Pletací inylková pøíze Betynka 100 g;353.95;428.6;74.65;17.42;20
 114743/196114;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;288.0;317.0;29.0;9.15;10
-114743/196115;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;288.0;317.0;29.0;9.15;10
+114743/196115;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;272.0;298.9;26.9;9.0;10
 114743/196116;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;213.0;234.7;21.7;9.25;10
 114743/196117;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;196.0;215.4;19.4;9.01;10
 114743/196118;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;302.0;332.8;30.8;9.25;10
-114743/220616;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;288.0;317.0;29.0;9.15;10
+114743/220616;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;272.0;298.9;26.9;9.0;10
 114743/249067;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;356.0;390.8;34.8;8.9;10
 114743/249068;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;356.0;390.8;34.8;8.9;10
 82591/196114;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;9.8;23.6;13.8;58.47;60
-82591/196115;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;14.4;34.8;20.4;58.62;60
+82591/196115;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;13.6;32.9;19.3;58.66;60
 82591/196116;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;9.8;23.6;13.8;58.47;60
 82591/196117;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;9.8;23.6;13.8;58.47;60
 82591/196118;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;13.35;32.2;18.85;58.54;60
-82591/220616;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;14.4;34.8;20.4;58.62;60
+82591/220616;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;13.6;32.9;19.3;58.66;60
 82591/249067;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;15.1;36.5;21.4;58.63;60
 82591/249068;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;25.4;43.0;17.6;40.93;45
-82795/196114;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;57.6;90.5;32.9;36.35;40
-82795/196115;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;57.6;90.5;32.9;36.35;40
+82795/196114;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;54.4;85.4;31.0;36.3;40
+82795/196115;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;54.4;85.4;31.0;36.3;40
 82795/196116;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;42.6;67.0;24.4;36.42;40
 82795/196117;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;57.6;90.5;32.9;36.35;40
 82795/196118;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;60.4;95.1;34.7;36.49;40
-82795/220616;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;57.6;90.5;32.9;36.35;40
+82795/220616;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;54.4;85.4;31.0;36.3;40
 82795/249067;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;64.0;100.7;36.7;36.44;40
 82795/249068;Filigránovı dekoraèní našívací motıl, mandala, srdce, strom ivota;71.2;111.8;40.6;36.31;40
 100932/196135;Pøívìsek strom ivota O15 mm;1290.0;1585.1;295.1;18.62;20
@@ -34214,23 +34214,23 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 133941/248649;Kovovı pøívìsek / taháèek na zip zvíøátko;587.3;645.4;58.1;9.0;10
 133972/248731;Pøívìsek mini zvíøátka;24.75;46.5;21.75;46.77;50
 133972/248732;Pøívìsek mini zvíøátka;26.7;64.4;37.7;58.54;60
-133972/248734;Pøívìsek mini zvíøátka;24.0;58.0;34.0;58.62;60
-133972/248735;Pøívìsek mini zvíøátka;24.0;58.0;34.0;58.62;60
-133972/248736;Pøívìsek mini zvíøátka;24.0;58.0;34.0;58.62;60
+133972/248734;Pøívìsek mini zvíøátka;25.9;54.8;28.9;52.74;55
+133972/248735;Pøívìsek mini zvíøátka;25.9;54.8;28.9;52.74;55
+133972/248736;Pøívìsek mini zvíøátka;25.9;54.8;28.9;52.74;55
 133972/248737;Pøívìsek mini zvíøátka;24.75;46.5;21.75;46.77;50
 133972/248738;Pøívìsek mini zvíøátka;20.95;39.4;18.45;46.83;50
 133973/248731;Pøívìsek mini zvíøátka;160.2;195.7;35.5;18.14;20
 133973/248732;Pøívìsek mini zvíøátka;160.2;251.6;91.4;36.33;40
-133973/248734;Pøívìsek mini zvíøátka;144.0;226.5;82.5;36.42;40
-133973/248735;Pøívìsek mini zvíøátka;144.0;226.5;82.5;36.42;40
-133973/248736;Pøívìsek mini zvíøátka;144.0;226.5;82.5;36.42;40
+133973/248734;Pøívìsek mini zvíøátka;155.4;213.8;58.4;27.32;30
+133973/248735;Pøívìsek mini zvíøátka;155.4;213.8;58.4;27.32;30
+133973/248736;Pøívìsek mini zvíøátka;155.4;213.8;58.4;27.32;30
 133973/248737;Pøívìsek mini zvíøátka;148.5;181.9;33.4;18.36;20
 133973/248738;Pøívìsek mini zvíøátka;137.1;167.7;30.6;18.25;20
 133974/248731;Pøívìsek mini zvíøátka;355.6;391.3;35.7;9.12;10
 133974/248732;Pøívìsek mini zvíøátka;415.1;456.5;41.4;9.07;10
-133974/248734;Pøívìsek mini zvíøátka;336.0;370.1;34.1;9.21;10
-133974/248735;Pøívìsek mini zvíøátka;336.0;370.1;34.1;9.21;10
-133974/248736;Pøívìsek mini zvíøátka;336.0;370.1;34.1;9.21;10
+133974/248734;Pøívìsek mini zvíøátka;362.6;398.9;36.3;9.1;10
+133974/248735;Pøívìsek mini zvíøátka;362.6;398.9;36.3;9.1;10
+133974/248736;Pøívìsek mini zvíøátka;362.6;398.9;36.3;9.1;10
 133974/248737;Pøívìsek mini zvíøátka;373.8;410.8;37.0;9.01;10
 133974/248738;Pøívìsek mini zvíøátka;319.9;352.4;32.5;9.22;10
 133975/248740;Kovovı pøívìsek / taháèek na zip koèka;14.4;34.8;20.4;58.62;60
@@ -34332,12 +34332,12 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 148284/266992;Kovovı pøívìsek / taháèek na zip vánoèní stromeèek;105.9;145.9;40.0;27.42;30
 148285/266992;Kovovı pøívìsek / taháèek na zip vánoèní stromeèek;211.8;233.1;21.3;9.14;10
 148285/266993;Kovovı pøívìsek / taháèek na zip vánoèní stromeèek;119.4;131.4;12.0;9.13;10
-148218/266912;Kovovı pøívìsek / taháèek na zip srdce, housle s broušenımi kamínky;12.0;25.4;13.4;52.76;55
-148218/266914;Kovovı pøívìsek / taháèek na zip srdce, housle s broušenımi kamínky;12.0;25.4;13.4;52.76;55
-148219/266912;Kovovı pøívìsek / taháèek na zip srdce, housle s broušenımi kamínky;60.0;82.5;22.5;27.27;30
-148219/266914;Kovovı pøívìsek / taháèek na zip srdce, housle s broušenımi kamínky;60.0;82.5;22.5;27.27;30
-148220/266912;Kovovı pøívìsek / taháèek na zip srdce, housle s broušenımi kamínky;180.0;198.2;18.2;9.18;10
-148220/266914;Kovovı pøívìsek / taháèek na zip srdce, housle s broušenımi kamínky;180.0;198.2;18.2;9.18;10
+148218/266912;Kovovı pøívìsek / taháèek na zip srdce, housle s broušenımi kamínky;11.34;24.0;12.66;52.75;55
+148218/266914;Kovovı pøívìsek / taháèek na zip srdce, housle s broušenımi kamínky;11.34;24.0;12.66;52.75;55
+148219/266912;Kovovı pøívìsek / taháèek na zip srdce, housle s broušenımi kamínky;56.7;77.9;21.2;27.21;30
+148219/266914;Kovovı pøívìsek / taháèek na zip srdce, housle s broušenımi kamínky;56.7;77.9;21.2;27.21;30
+148220/266912;Kovovı pøívìsek / taháèek na zip srdce, housle s broušenımi kamínky;170.1;187.0;16.9;9.04;10
+148220/266914;Kovovı pøívìsek / taháèek na zip srdce, housle s broušenımi kamínky;170.1;187.0;16.9;9.04;10
 148295/266997;Kovovı pøívìsek / taháèek na zip vèela 19x15 mm;3.0;3.8;0.8;21.05;25
 148295/266998;Kovovı pøívìsek / taháèek na zip vèela 19x15 mm;11.9;18.6;6.7;36.02;40
 148296/266997;Kovovı pøívìsek / taháèek na zip vèela 19x15 mm;63.9;100.6;36.7;36.48;40
@@ -34831,35 +34831,35 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 76283/186388;Naehlovaèka - èeská vlajka;17.42;32.7;15.28;46.73;50
 76351/186388;Naehlovaèka - èeská vlajka;174.2;213.0;38.8;18.22;20
 102399/187486;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;308.0;338.8;30.8;9.09;10
-102399/204308;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;308.0;338.8;30.8;9.09;10
-102399/204309;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;308.0;338.8;30.8;9.09;10
-102399/209568;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;308.0;338.8;30.8;9.09;10
-102399/209569;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;308.0;338.8;30.8;9.09;10
-102399/230599;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;308.0;338.8;30.8;9.09;10
-102399/230600;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;308.0;338.8;30.8;9.09;10
+102399/204308;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;288.0;317.0;29.0;9.15;10
+102399/204309;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;288.0;317.0;29.0;9.15;10
+102399/209568;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;288.0;317.0;29.0;9.15;10
+102399/209569;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;288.0;317.0;29.0;9.15;10
+102399/230599;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;288.0;317.0;29.0;9.15;10
+102399/230600;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;288.0;317.0;29.0;9.15;10
 102399/230601;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;308.0;338.8;30.8;9.09;10
-102399/235118;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;308.0;338.8;30.8;9.09;10
-102399/235119;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;308.0;338.8;30.8;9.09;10
+102399/235118;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;288.0;317.0;29.0;9.15;10
+102399/235119;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;288.0;317.0;29.0;9.15;10
 76874/187486;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;7.7;18.6;10.9;58.6;60
 76874/204308;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;7.7;18.6;10.9;58.6;60
-76874/204309;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;7.7;18.6;10.9;58.6;60
+76874/204309;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;7.2;17.4;10.2;58.62;60
 76874/209568;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;7.7;18.6;10.9;58.6;60
-76874/209569;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;7.7;18.6;10.9;58.6;60
+76874/209569;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;7.2;17.4;10.2;58.62;60
 76874/230599;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;7.7;18.6;10.9;58.6;60
 76874/230600;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;7.7;18.6;10.9;58.6;60
 76874/230601;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;7.7;18.6;10.9;58.6;60
 76874/235118;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;7.7;18.6;10.9;58.6;60
 76874/235119;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;7.7;18.6;10.9;58.6;60
 77496/187486;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;77.0;121.0;44.0;36.36;40
-77496/204308;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;77.0;121.0;44.0;36.36;40
-77496/204309;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;77.0;121.0;44.0;36.36;40
-77496/209568;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;77.0;121.0;44.0;36.36;40
-77496/209569;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;77.0;121.0;44.0;36.36;40
-77496/230599;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;77.0;121.0;44.0;36.36;40
-77496/230600;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;77.0;121.0;44.0;36.36;40
+77496/204308;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;72.0;113.1;41.1;36.34;40
+77496/204309;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;72.0;113.1;41.1;36.34;40
+77496/209568;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;72.0;113.1;41.1;36.34;40
+77496/209569;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;72.0;113.1;41.1;36.34;40
+77496/230599;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;72.0;113.1;41.1;36.34;40
+77496/230600;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;72.0;113.1;41.1;36.34;40
 77496/230601;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;77.0;121.0;44.0;36.36;40
-77496/235118;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;77.0;121.0;44.0;36.36;40
-77496/235119;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;77.0;121.0;44.0;36.36;40
+77496/235118;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;72.0;113.1;41.1;36.34;40
+77496/235119;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;72.0;113.1;41.1;36.34;40
 77498/204308;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;1540.0;1694.0;154.0;9.09;10
 77498/230601;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;2000.0;0.0;-2000.0;0;0
 77498/235118;Eko kùe cedulka / ozdoba / nášivka Handmade 15x50 mm;2000.0;0.0;-2000.0;0;0
@@ -35099,13 +35099,13 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 115657/223690;Naehlovaèka mini èeská vlajka;87.1;106.5;19.4;18.22;20
 152127/223690;Naehlovaèka mini èeská vlajka;261.3;287.5;26.2;9.11;10
 119484/229165;Naehlovaèka hvìzda s glitry;38.1;65.3;27.2;41.65;45
-119484/229166;Naehlovaèka hvìzda s glitry;38.1;65.3;27.2;41.65;45
-119484/229167;Naehlovaèka hvìzda s glitry;38.1;65.3;27.2;41.65;45
-119484/229169;Naehlovaèka hvìzda s glitry;38.1;65.3;27.2;41.65;45
+119484/229166;Naehlovaèka hvìzda s glitry;39.0;66.8;27.8;41.62;45
+119484/229167;Naehlovaèka hvìzda s glitry;39.0;66.8;27.8;41.62;45
+119484/229169;Naehlovaèka hvìzda s glitry;39.0;66.8;27.8;41.62;45
 119485/229165;Naehlovaèka hvìzda s glitry;190.5;237.2;46.7;19.69;20
-119485/229166;Naehlovaèka hvìzda s glitry;190.5;237.2;46.7;19.69;20
-119485/229167;Naehlovaèka hvìzda s glitry;190.5;237.2;46.7;19.69;20
-119485/229169;Naehlovaèka hvìzda s glitry;190.5;237.2;46.7;19.69;20
+119485/229166;Naehlovaèka hvìzda s glitry;195.0;242.0;47.0;19.42;20
+119485/229167;Naehlovaèka hvìzda s glitry;195.0;242.0;47.0;19.42;20
+119485/229169;Naehlovaèka hvìzda s glitry;195.0;242.0;47.0;19.42;20
 120012/229508;Naehlovaèka zvíøata;28.86;0.0;-28.86;0;0
 120012/229509;Naehlovaèka zvíøata;28.86;0.0;-28.86;0;0
 120012/229510;Naehlovaèka zvíøata;32.0;0.0;-32.0;0;0
@@ -37387,7 +37387,7 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 94751/187969;Stuha s lurexem šíøe 3 mm vánoèní;559.0;614.9;55.9;9.09;10
 94752/187968;Stuha s lurexem šíøe 3 mm vánoèní;111.8;175.7;63.9;36.37;40
 94752/187969;Stuha s lurexem šíøe 3 mm vánoèní;111.8;175.7;63.9;36.37;40
-78065/189633;Károvaná stuha s lurexem šíøe 15 mm vánoèní;76.5;148.4;71.9;48.45;50
+78065/189633;Károvaná stuha s lurexem šíøe 15 mm vánoèní;69.53;84.9;15.37;18.1;20
 78065/189634;Károvaná stuha s lurexem šíøe 15 mm vánoèní;104.18;202.3;98.12;48.5;50
 78785/189633;Károvaná stuha s lurexem šíøe 15 mm vánoèní;832.5;1456.5;624.0;42.84;45
 108949/188707;Stuha imitace juty šíøe 35 mm s vısekem;508.14;558.7;50.56;9.05;10
@@ -38180,8 +38180,8 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 166477/267985;Vánoèní rypsová stuha sob šíøe 10 mm;397.8;435.6;37.8;8.68;10
 150698/267916;Vánoèní rypsová stuha snìhulák šíøe 25 mm;13.08;16.0;2.92;18.25;20
 150698/267917;Vánoèní rypsová stuha snìhulák šíøe 25 mm;13.08;16.0;2.92;18.25;20
-150699/267916;Vánoèní rypsová stuha snìhulák šíøe 25 mm;176.4;193.8;17.4;8.98;10
-150699/267917;Vánoèní rypsová stuha snìhulák šíøe 25 mm;176.4;193.8;17.4;8.98;10
+150699/267916;Vánoèní rypsová stuha snìhulák šíøe 25 mm;156.6;172.6;16.0;9.27;10
+150699/267917;Vánoèní rypsová stuha snìhulák šíøe 25 mm;156.6;172.6;16.0;9.27;10
 148883/267867;Sametová stuha šíøe 40 mm;22.87;39.2;16.33;41.66;45
 148883/267868;Sametová stuha šíøe 40 mm;22.87;39.2;16.33;41.66;45
 148883/273743;Sametová stuha šíøe 40 mm;22.87;39.2;16.33;41.66;45
@@ -40605,12 +40605,12 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 146492/264464;Bavlnìnı popruh šíøe 25 mm;503.75;0.0;-503.75;0;0
 146493/264463;Bavlnìnı popruh šíøe 25 mm;1007.5;1220.3;212.8;17.44;20
 146493/264464;Bavlnìnı popruh šíøe 25 mm;1007.5;0.0;-1007.5;0;0
-151759/273346;Popruh šíøe 38 mm;16.66;20.4;3.74;18.33;20
+151759/273346;Popruh šíøe 38 mm;15.68;19.2;3.52;18.33;20
 151759/273347;Popruh šíøe 38 mm;16.66;20.4;3.74;18.33;20
-151759/273348;Popruh šíøe 38 mm;16.66;20.4;3.74;18.33;20
-151760/273346;Popruh šíøe 38 mm;749.7;824.9;75.2;9.12;10
+151759/273348;Popruh šíøe 38 mm;15.68;19.2;3.52;18.33;20
+151760/273346;Popruh šíøe 38 mm;705.6;776.5;70.9;9.13;10
 151760/273347;Popruh šíøe 38 mm;749.7;824.9;75.2;9.12;10
-151760/273348;Popruh šíøe 38 mm;749.7;824.9;75.2;9.12;10
+151760/273348;Popruh šíøe 38 mm;705.6;776.5;70.9;9.13;10
 159750/273347;Popruh šíøe 38 mm;87.1;145.2;58.1;40.01;45
 151847/273316;Popruh šíøe 25 mm;12.28;21.1;8.82;41.8;45
 151847/273317;Popruh šíøe 25 mm;12.28;21.1;8.82;41.8;45
@@ -40918,12 +40918,12 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 154539/277137;Oboustrannı popruh na vodítko / obojek / postroj šíøe 20 mm;400.0;0.0;-400.0;0;0
 154539/277138;Oboustrannı popruh na vodítko / obojek / postroj šíøe 20 mm;400.0;0.0;-400.0;0;0
 161861/277136;Oboustrannı popruh na vodítko / obojek / postroj šíøe 20 mm;44.45;76.2;31.75;41.67;45
-154536/277103;Popruh polypropylenovı na vodítko / obojek šíøe 15 mm;5.21;8.2;2.99;36.46;40
-154536/277104;Popruh polypropylenovı na vodítko / obojek šíøe 15 mm;5.21;8.2;2.99;36.46;40
-154536/277105;Popruh polypropylenovı na vodítko / obojek šíøe 15 mm;5.21;8.2;2.99;36.46;40
-154537/277103;Popruh polypropylenovı na vodítko / obojek šíøe 15 mm;250.08;274.7;24.62;8.96;10
-154537/277104;Popruh polypropylenovı na vodítko / obojek šíøe 15 mm;250.08;274.7;24.62;8.96;10
-154537/277105;Popruh polypropylenovı na vodítko / obojek šíøe 15 mm;250.08;274.7;24.62;8.96;10
+154536/277103;Popruh polypropylenovı na vodítko / obojek šíøe 15 mm;4.84;7.6;2.76;36.32;40
+154536/277104;Popruh polypropylenovı na vodítko / obojek šíøe 15 mm;4.84;7.6;2.76;36.32;40
+154536/277105;Popruh polypropylenovı na vodítko / obojek šíøe 15 mm;4.84;7.6;2.76;36.32;40
+154537/277103;Popruh polypropylenovı na vodítko / obojek šíøe 15 mm;232.32;255.6;23.28;9.11;10
+154537/277104;Popruh polypropylenovı na vodítko / obojek šíøe 15 mm;232.32;255.6;23.28;9.11;10
+154537/277105;Popruh polypropylenovı na vodítko / obojek šíøe 15 mm;232.32;255.6;23.28;9.11;10
 162121/277104;Popruh polypropylenovı na vodítko / obojek šíøe 15 mm;93.0;159.5;66.5;41.69;45
 154533/277047;Popruh polypropylenovı na vodítko / obojek, svítící ve tmì šíøe 15 mm;12.71;21.8;9.09;41.7;45
 154533/277142;Popruh polypropylenovı na vodítko / obojek, svítící ve tmì šíøe 15 mm;12.71;21.8;9.09;41.7;45
@@ -42961,10 +42961,10 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 148920/267935;Vzorovka šíøe 33 mm;11.43;20.0;8.57;42.85;45
 148921/267934;Vzorovka šíøe 33 mm;514.35;0.0;-514.35;0;0
 148921/267935;Vzorovka šíøe 33 mm;514.35;628.9;114.55;18.21;20
-148933/268005;Vzorovka srdce šíøe 15 mm;6.97;9.6;2.63;27.4;30
+148933/268005;Vzorovka srdce šíøe 15 mm;6.53;9.0;2.47;27.44;30
 148933/268006;Vzorovka srdce šíøe 15 mm;7.62;13.3;5.68;42.71;45
 148933/268007;Vzorovka srdce šíøe 15 mm;10.0;0.0;-10.0;0;0
-148934/268005;Vzorovka srdce šíøe 15 mm;313.65;345.2;31.55;9.14;10
+148934/268005;Vzorovka srdce šíøe 15 mm;293.85;323.4;29.55;9.14;10
 148934/268006;Vzorovka srdce šíøe 15 mm;342.9;419.3;76.4;18.22;20
 148934/268007;Vzorovka srdce šíøe 15 mm;315.0;0.0;-315.0;0;0
 152136/273865;Lemovka pletená zakládaná polyamidová šíøe 20 mm;147.0;196.6;49.6;25.23;30
@@ -44087,13 +44087,13 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 95861/232568;Designové patentky / druky O25 mm;800.0;0.0;-800.0;0;0
 95861/288650;Designové patentky / druky O25 mm;898.0;987.4;89.4;9.05;10
 95861/288651;Designové patentky / druky O25 mm;898.0;987.4;89.4;9.05;10
-142859/199834;Plavkové zapínání šíøe 20 mm plastové;229.0;251.7;22.7;9.02;10
+142859/199834;Plavkové zapínání šíøe 20 mm plastové;254.0;279.5;25.5;9.12;10
 142859/273719;Plavkové zapínání šíøe 20 mm plastové;254.0;279.5;25.5;9.12;10
 87603/199833;Plavkové zapínání šíøe 20 mm plastové;10.0;0.0;-10.0;0;0
-87603/199834;Plavkové zapínání šíøe 20 mm plastové;11.45;21.5;10.05;46.74;50
+87603/199834;Plavkové zapínání šíøe 20 mm plastové;12.7;30.7;18.0;58.63;60
 87603/273719;Plavkové zapínání šíøe 20 mm plastové;11.45;21.5;10.05;46.74;50
 87604/199833;Plavkové zapínání šíøe 20 mm plastové;40.0;0.0;-40.0;0;0
-87604/199834;Plavkové zapínání šíøe 20 mm plastové;45.8;55.9;10.1;18.07;20
+87604/199834;Plavkové zapínání šíøe 20 mm plastové;50.8;79.9;29.1;36.42;40
 87604/273719;Plavkové zapínání šíøe 20 mm plastové;45.8;55.9;10.1;18.07;20
 102701/200555;Bambusová ucha na tašky / lapaè snù O15 cm;135.52;213.0;77.48;36.38;40
 122654/200557;Bambusová ucha na tašky / lapaè snù O20 cm;98.8;120.8;22.0;18.21;20
@@ -44252,23 +44252,23 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 109786/252740;Oèi s pojistkou O14 mm;800.0;0.0;-800.0;0;0
 109786/270206;Oèi s pojistkou O14 mm;800.0;0.0;-800.0;0;0
 156506/204291;Oèi s pojistkou O14 mm;284.0;312.2;28.2;9.03;10
-156506/204292;Oèi s pojistkou O14 mm;320.0;353.3;33.3;9.43;10
-156506/204293;Oèi s pojistkou O14 mm;320.0;353.3;33.3;9.43;10
-156506/204294;Oèi s pojistkou O14 mm;320.0;353.3;33.3;9.43;10
+156506/204292;Oèi s pojistkou O14 mm;298.0;329.1;31.1;9.45;10
+156506/204293;Oèi s pojistkou O14 mm;298.0;329.1;31.1;9.45;10
+156506/204294;Oèi s pojistkou O14 mm;298.0;329.1;31.1;9.45;10
 156506/252740;Oèi s pojistkou O14 mm;320.0;353.3;33.3;9.43;10
-156506/270206;Oèi s pojistkou O14 mm;320.0;353.3;33.3;9.43;10
+156506/270206;Oèi s pojistkou O14 mm;298.0;329.1;31.1;9.45;10
 90432/204291;Oèi s pojistkou O14 mm;14.2;34.4;20.2;58.72;60
-90432/204292;Oèi s pojistkou O14 mm;16.0;38.6;22.6;58.55;60
-90432/204293;Oèi s pojistkou O14 mm;16.0;38.6;22.6;58.55;60
-90432/204294;Oèi s pojistkou O14 mm;16.0;38.6;22.6;58.55;60
-90432/252740;Oèi s pojistkou O14 mm;16.0;38.6;22.6;58.55;60
-90432/270206;Oèi s pojistkou O14 mm;16.0;38.6;22.6;58.55;60
+90432/204292;Oèi s pojistkou O14 mm;14.9;36.1;21.2;58.73;60
+90432/204293;Oèi s pojistkou O14 mm;14.9;36.1;21.2;58.73;60
+90432/204294;Oèi s pojistkou O14 mm;14.9;36.1;21.2;58.73;60
+90432/252740;Oèi s pojistkou O14 mm;14.9;36.1;21.2;58.73;60
+90432/270206;Oèi s pojistkou O14 mm;14.9;36.1;21.2;58.73;60
 90433/204291;Oèi s pojistkou O14 mm;56.8;89.5;32.7;36.54;40
-90433/204292;Oèi s pojistkou O14 mm;64.0;100.7;36.7;36.44;40
-90433/204293;Oèi s pojistkou O14 mm;64.0;100.7;36.7;36.44;40
-90433/204294;Oèi s pojistkou O14 mm;64.0;100.7;36.7;36.44;40
-90433/252740;Oèi s pojistkou O14 mm;64.0;100.7;36.7;36.44;40
-90433/270206;Oèi s pojistkou O14 mm;64.0;100.7;36.7;36.44;40
+90433/204292;Oèi s pojistkou O14 mm;59.6;93.9;34.3;36.53;40
+90433/204293;Oèi s pojistkou O14 mm;59.6;93.9;34.3;36.53;40
+90433/204294;Oèi s pojistkou O14 mm;59.6;93.9;34.3;36.53;40
+90433/252740;Oèi s pojistkou O14 mm;59.6;93.9;34.3;36.53;40
+90433/270206;Oèi s pojistkou O14 mm;59.6;93.9;34.3;36.53;40
 111519/205224;Koešinová bambule s poutkem O6 cm;43.76;53.5;9.74;18.21;20
 111519/205225;Koešinová bambule s poutkem O6 cm;43.76;53.5;9.74;18.21;20
 111519/242479;Koešinová bambule s poutkem O6 cm;47.4;57.9;10.5;18.13;20
@@ -44776,15 +44776,15 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 113433/224352;Paruka / vlasy pro panenky 15 cm;318.33;350.2;31.87;9.1;10
 113433/243607;Paruka / vlasy pro panenky 15 cm;318.33;350.2;31.87;9.1;10
 113433/243608;Paruka / vlasy pro panenky 15 cm;331.56;364.8;33.24;9.11;10
-114900/222868;Oèi velké s pojistkou O30 mm;8.64;16.2;7.56;46.67;50
+114900/222868;Oèi velké s pojistkou O30 mm;7.84;14.7;6.86;46.67;50
 114900/222870;Oèi velké s pojistkou O30 mm;10.36;0.0;-10.36;0;0
-114900/222871;Oèi velké s pojistkou O30 mm;8.64;16.2;7.56;46.67;50
-114901/222868;Oèi velké s pojistkou O30 mm;43.2;52.8;9.6;18.18;20
+114900/222871;Oèi velké s pojistkou O30 mm;7.84;14.7;6.86;46.67;50
+114901/222868;Oèi velké s pojistkou O30 mm;39.2;47.9;8.7;18.16;20
 114901/222870;Oèi velké s pojistkou O30 mm;51.8;0.0;-51.8;0;0
-114901/222871;Oèi velké s pojistkou O30 mm;43.2;52.8;9.6;18.18;20
-114902/222868;Oèi velké s pojistkou O30 mm;345.6;379.5;33.9;8.93;10
+114901/222871;Oèi velké s pojistkou O30 mm;39.2;47.9;8.7;18.16;20
+114902/222868;Oèi velké s pojistkou O30 mm;313.6;344.6;31.0;9.0;10
 114902/222870;Oèi velké s pojistkou O30 mm;414.4;0.0;-414.4;0;0
-114902/222871;Oèi velké s pojistkou O30 mm;345.6;379.5;33.9;8.93;10
+114902/222871;Oèi velké s pojistkou O30 mm;313.6;344.6;31.0;9.0;10
 114759/222806;Oèi velké s glitry s pojistkou O40 mm;18.0;38.0;20.0;52.63;55
 114759/253587;Oèi velké s glitry s pojistkou O40 mm;18.0;38.0;20.0;52.63;55
 114759/253588;Oèi velké s glitry s pojistkou O40 mm;18.0;38.0;20.0;52.63;55
@@ -48235,8 +48235,8 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 155377/277683;Ozdobné zapínání / zkracovaè bez šití 20x40 mm;120.0;0.0;-120.0;0;0
 155377/277684;Ozdobné zapínání / zkracovaè bez šití 20x40 mm;121.92;134.2;12.28;9.15;10
 155041/277687;Sada zapínání na tašku 30x34 mm;6.81;12.8;5.99;46.8;50
-155042/277687;Sada zapínání na tašku 30x34 mm;50.5;55.5;5.0;9.01;10
-155043/277687;Sada zapínání na tašku 30x34 mm;588.5;647.4;58.9;9.1;10
+155042/277687;Sada zapínání na tašku 30x34 mm;84.1;185.0;100.9;54.54;55
+155043/277687;Sada zapínání na tašku 30x34 mm;420.5;462.8;42.3;9.14;10
 155035/277686;Kalhotovı háèek / zapínání, ètyødílnı z nerezové oceli;16.5;39.9;23.4;58.65;60
 155036/277686;Kalhotovı háèek / zapínání, ètyødílnı z nerezové oceli;99.0;155.7;56.7;36.42;40
 155037/277686;Kalhotovı háèek / zapínání, ètyødílnı z nerezové oceli;396.0;435.6;39.6;9.09;10
@@ -48540,7 +48540,8 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 154607/277106;Kovová karabina s kroukem na klíèe;958.5;1053.9;95.4;9.05;10
 154607/278202;Kovová karabina s kroukem na klíèe;958.5;1053.9;95.4;9.05;10
 155233/277808;Zapínání na penìenku / kabelku, šíøe 20 mm;27.5;30.3;2.8;9.24;10
-155234/277808;Zapínání na penìenku / kabelku, šíøe 20 mm;118.0;130.1;12.1;9.3;10
+155234/277808;Zapínání na penìenku / kabelku, šíøe 20 mm;106.0;130.1;24.1;18.52;20
+167123/277808;Zapínání na penìenku / kabelku, šíøe 20 mm;212.0;233.5;21.5;9.21;10
 155235/277809;Zapínání na penìenku / kabelku, šíøe 25 mm;30.5;37.3;6.8;18.23;20
 155236/277809;Zapínání na penìenku / kabelku, šíøe 25 mm;152.5;167.6;15.1;9.01;10
 155254/277813;Kovová spona / ozdoba prùvlek 10 mm;24.26;29.7;5.44;18.32;20
@@ -49941,9 +49942,9 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 4262/43817;Pøíze Snìhurka Niárna;462.8;565.7;102.9;18.19;20
 4262/66534;Pøíze Snìhurka Niárna;462.8;565.7;102.9;18.19;20
 107785/216071;Šòùra / pøíze s duší O9 mm;197.5;241.4;43.9;18.19;20
-107785/230351;Šòùra / pøíze s duší O9 mm;197.5;241.4;43.9;18.19;20
+107785/230351;Šòùra / pøíze s duší O9 mm;179.5;219.6;40.1;18.26;20
 107786/216071;Šòùra / pøíze s duší O9 mm;395.0;434.4;39.4;9.07;10
-107786/230351;Šòùra / pøíze s duší O9 mm;395.0;434.4;39.4;9.07;10
+107786/230351;Šòùra / pøíze s duší O9 mm;359.0;395.7;36.7;9.27;10
 143442/260629;Èelenka do vlasù vánoèní / párty;21.18;39.9;18.72;46.92;50
 143443/260629;Èelenka do vlasù vánoèní / párty;84.72;111.8;27.08;24.22;25
 143443/260630;Èelenka do vlasù vánoèní / párty;84.72;111.8;27.08;24.22;25
@@ -50196,9 +50197,9 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 155373/278194;Ozdobné filigránové zapínání;261.3;287.5;26.2;9.11;10
 155373/278195;Ozdobné filigránové zapínání;261.3;287.5;26.2;9.11;10
 155373/278196;Ozdobné filigránové zapínání;261.3;287.5;26.2;9.11;10
-155482/278275;Kulièkovı øetízek 8 cm poutko;6.1;14.8;8.7;58.78;60
-155483/278275;Kulièkovı øetízek 8 cm poutko;30.5;47.8;17.3;36.19;40
-155484/278275;Kulièkovı øetízek 8 cm poutko;305.0;338.8;33.8;9.98;10
+155482/278275;Kulièkovı øetízek 8 cm poutko;5.8;13.9;8.1;58.27;60
+155483/278275;Kulièkovı øetízek 8 cm poutko;29.0;45.4;16.4;36.12;40
+155484/278275;Kulièkovı øetízek 8 cm poutko;290.0;314.6;24.6;7.82;10
 155621/278646;Kovová karabina, prùvlek 22 mm;25.41;43.6;18.19;41.72;45
 155622/278646;Kovová karabina, prùvlek 22 mm;254.1;315.8;61.7;19.54;20
 155625/278714;Karabina s kroukem a øetízkem na klíèe;9.32;22.5;13.18;58.58;60
@@ -51758,18 +51759,18 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 156297/280013;Odìvní semišová kùe elastická;501.9;552.1;50.2;9.09;10
 156297/288235;Odìvní semišová kùe elastická;501.9;552.1;50.2;9.09;10
 156297/288236;Odìvní semišová kùe elastická;501.9;552.1;50.2;9.09;10
-156621/280704;Úplet dekoraèní s lurexem;60.86;74.4;13.54;18.2;20
-156621/280705;Úplet dekoraèní s lurexem;60.86;74.4;13.54;18.2;20
-156621/280706;Úplet dekoraèní s lurexem;60.86;74.4;13.54;18.2;20
-156621/280707;Úplet dekoraèní s lurexem;60.86;74.4;13.54;18.2;20
-156621/280708;Úplet dekoraèní s lurexem;60.86;74.4;13.54;18.2;20
-156621/280709;Úplet dekoraèní s lurexem;60.86;74.4;13.54;18.2;20
-156622/280704;Úplet dekoraèní s lurexem;608.6;669.5;60.9;9.1;10
-156622/280705;Úplet dekoraèní s lurexem;608.6;669.5;60.9;9.1;10
-156622/280706;Úplet dekoraèní s lurexem;608.6;669.5;60.9;9.1;10
-156622/280707;Úplet dekoraèní s lurexem;608.6;669.5;60.9;9.1;10
-156622/280708;Úplet dekoraèní s lurexem;608.6;669.5;60.9;9.1;10
-156622/280709;Úplet dekoraèní s lurexem;608.6;669.5;60.9;9.1;10
+156621/280704;Úplet dekoraèní s lurexem;57.48;70.3;12.82;18.24;20
+156621/280705;Úplet dekoraèní s lurexem;57.48;70.3;12.82;18.24;20
+156621/280706;Úplet dekoraèní s lurexem;57.48;70.3;12.82;18.24;20
+156621/280707;Úplet dekoraèní s lurexem;57.48;70.3;12.82;18.24;20
+156621/280708;Úplet dekoraèní s lurexem;57.48;70.3;12.82;18.24;20
+156621/280709;Úplet dekoraèní s lurexem;57.48;70.3;12.82;18.24;20
+156622/280704;Úplet dekoraèní s lurexem;574.8;632.4;57.6;9.11;10
+156622/280705;Úplet dekoraèní s lurexem;574.8;632.4;57.6;9.11;10
+156622/280706;Úplet dekoraèní s lurexem;574.8;632.4;57.6;9.11;10
+156622/280707;Úplet dekoraèní s lurexem;574.8;632.4;57.6;9.11;10
+156622/280708;Úplet dekoraèní s lurexem;574.8;632.4;57.6;9.11;10
+156622/280709;Úplet dekoraèní s lurexem;574.8;632.4;57.6;9.11;10
 138398/101761;"Háèek na háèkování pøíze vel. 0; 2; 4; 6";157.9;193.0;35.1;18.19;20
 138398/135124;"Háèek na háèkování pøíze vel. 0; 2; 4; 6";157.9;193.0;35.1;18.19;20
 138398/135125;"Háèek na háèkování pøíze vel. 0; 2; 4; 6";157.9;193.0;35.1;18.19;20
@@ -52114,16 +52115,16 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 94920/193790;Korková látka / metrá;2920.3;3212.3;292.0;9.09;10
 82185/195130;Pøírodní juta šíøe 48 cm;217.25;445.5;228.25;51.23;55
 94966/195130;Pøírodní juta šíøe 48 cm;434.5;623.6;189.1;30.32;35
-91292/205566;Imitace juty podlepená vlizelínem;65.98;80.7;14.72;18.24;20
-91292/205567;Imitace juty podlepená vlizelínem;65.98;80.7;14.72;18.24;20
+91292/205566;Imitace juty podlepená vlizelínem;61.86;75.6;13.74;18.17;20
+91292/205567;Imitace juty podlepená vlizelínem;61.86;75.6;13.74;18.17;20
 91292/205568;Imitace juty podlepená vlizelínem;65.98;80.7;14.72;18.24;20
-91292/205569;Imitace juty podlepená vlizelínem;65.98;80.7;14.72;18.24;20
-91292/205572;Imitace juty podlepená vlizelínem;65.98;80.7;14.72;18.24;20
-94918/205566;Imitace juty podlepená vlizelínem;659.8;725.9;66.1;9.11;10
-94918/205567;Imitace juty podlepená vlizelínem;659.8;725.9;66.1;9.11;10
+91292/205569;Imitace juty podlepená vlizelínem;61.86;75.6;13.74;18.17;20
+91292/205572;Imitace juty podlepená vlizelínem;61.86;75.6;13.74;18.17;20
+94918/205566;Imitace juty podlepená vlizelínem;618.6;680.5;61.9;9.1;10
+94918/205567;Imitace juty podlepená vlizelínem;618.6;680.5;61.9;9.1;10
 94918/205568;Imitace juty podlepená vlizelínem;659.8;725.9;66.1;9.11;10
-94918/205569;Imitace juty podlepená vlizelínem;659.8;725.9;66.1;9.11;10
-94918/205572;Imitace juty podlepená vlizelínem;659.8;725.9;66.1;9.11;10
+94918/205569;Imitace juty podlepená vlizelínem;618.6;680.5;61.9;9.1;10
+94918/205572;Imitace juty podlepená vlizelínem;618.6;680.5;61.9;9.1;10
 114125/210842;Filc / pls soft metrá tlouška 1,4 mm;622.9;1074.0;451.1;42.0;45
 114125/210843;Filc / pls soft metrá tlouška 1,4 mm;622.9;1074.0;451.1;42.0;45
 114125/210844;Filc / pls soft metrá tlouška 1,4 mm;622.9;1074.0;451.1;42.0;45
@@ -58828,11 +58829,11 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 40216/86555;Medailonek rozevírací srdce 26x26 mm;17.96;43.4;25.44;58.62;60
 58223/86554;Medailonek rozevírací srdce 26x26 mm;359.2;394.9;35.7;9.04;10
 58223/86555;Medailonek rozevírací srdce 26x26 mm;449.0;0.0;-449.0;0;0
-15390/87418;Ozdobnı ketlovací nıt 40 mm;64.0;101.6;37.6;37.01;40
+15390/87418;Ozdobnı ketlovací nıt 40 mm;66.0;79.9;13.9;17.4;20
 15390/87419;Ozdobnı ketlovací nıt 40 mm;66.0;79.9;13.9;17.4;20
-36859/87418;Ozdobnı ketlovací nıt 40 mm;15.5;33.3;17.8;53.45;55
+36859/87418;Ozdobnı ketlovací nıt 40 mm;16.5;30.9;14.4;46.6;50
 36859/87419;Ozdobnı ketlovací nıt 40 mm;16.5;30.9;14.4;46.6;50
-97697/87418;Ozdobnı ketlovací nıt 40 mm;320.0;350.9;30.9;8.81;10
+97697/87418;Ozdobnı ketlovací nıt 40 mm;330.0;363.0;33.0;9.09;10
 97697/87419;Ozdobnı ketlovací nıt 40 mm;330.0;363.0;33.0;9.09;10
 100793/260760;Francouzská spona 7,5x78 mm polotovar;10.34;25.0;14.66;58.64;60
 16796/260760;Francouzská spona 7,5x78 mm polotovar;51.7;81.2;29.5;36.33;40
@@ -62589,13 +62590,13 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 127729/240986;Døevìné kulièky O14 mm;9.6;17.4;7.8;44.83;45
 127730/240986;Døevìné kulièky O14 mm;48.0;58.1;10.1;17.38;20
 127731/240986;Døevìné kulièky O14 mm;96.0;101.6;5.6;5.51;10
-127724/240985;Døevìné kulièky O18 mm;15.2;31.9;16.7;52.35;55
-127726/240985;Døevìné kulièky O18 mm;152.0;208.1;56.1;26.96;30
+127724/240985;Døevìné kulièky O18 mm;15.6;29.3;13.7;46.76;50
+127726/240985;Døevìné kulièky O18 mm;156.0;191.2;35.2;18.41;20
 127727/240985;Døevìné kulièky O18 mm;445.5;490.1;44.6;9.1;10
-159315/240985;Døevìné kulièky O18 mm;380.0;417.5;37.5;8.98;10
-127721/240984;Døevìné kulièky O20 mm;21.0;44.3;23.3;52.6;55
-127722/240984;Døevìné kulièky O20 mm;210.0;288.0;78.0;27.08;30
-136138/240984;Døevìné kulièky O20 mm;420.0;459.8;39.8;8.66;10
+159315/240985;Døevìné kulièky O18 mm;390.0;429.6;39.6;9.22;10
+127721/240984;Døevìné kulièky O20 mm;21.6;40.4;18.8;46.53;50
+127722/240984;Døevìné kulièky O20 mm;216.0;263.8;47.8;18.12;20
+136138/240984;Døevìné kulièky O20 mm;432.0;474.3;42.3;8.92;10
 135817/241035;Sklenìné korálky broušené ohòovky 3 mm;43.0;80.8;37.8;46.78;50
 135817/241036;Sklenìné korálky broušené ohòovky 3 mm;43.0;80.8;37.8;46.78;50
 135817/241037;Sklenìné korálky broušené ohòovky 3 mm;43.0;80.8;37.8;46.78;50
@@ -62635,15 +62636,15 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 139251/241045;Sklenìné korálky broušené ohòovky 3 mm;430.0;473.1;43.1;9.11;10
 139251/241046;Sklenìné korálky broušené ohòovky 3 mm;430.0;473.1;43.1;9.11;10
 139251/241265;Sklenìné korálky broušené ohòovky 3 mm;430.0;473.1;43.1;9.11;10
-127872/241167;Døevìné korálky nelakované O10 mm;12.6;23.6;11.0;46.61;50
-127873/241167;Døevìné korálky nelakované O10 mm;50.4;61.0;10.6;17.38;20
-127874/241167;Døevìné korálky nelakované O10 mm;189.0;206.9;17.9;8.65;10
+127872/241167;Døevìné korálky nelakované O10 mm;11.4;21.4;10.0;46.73;50
+127873/241167;Døevìné korálky nelakované O10 mm;45.6;56.6;11.0;19.43;20
+127874/241167;Døevìné korálky nelakované O10 mm;171.0;190.6;19.6;10.28;15
 127868/241163;Døevìné korálky nelakované O14 mm;18.4;44.0;25.6;58.18;60
 127869/241163;Døevìné korálky nelakované O14 mm;92.0;142.8;50.8;35.57;40
 127870/241163;Døevìné korálky nelakované O14 mm;184.0;203.3;19.3;9.49;10
-127856/241154;Døevìné korálky nelakované O18 mm;14.4;27.1;12.7;46.86;50
-127858/241154;Døevìné korálky nelakované O18 mm;288.0;353.3;65.3;18.48;20
-127859/241154;Døevìné korálky nelakované O18 mm;432.0;471.9;39.9;8.46;10
+127856/241154;Døevìné korálky nelakované O18 mm;13.2;24.7;11.5;46.56;50
+127858/241154;Døevìné korálky nelakované O18 mm;264.0;324.3;60.3;18.59;20
+127859/241154;Døevìné korálky nelakované O18 mm;396.0;435.6;39.6;9.09;10
 127910/241251;Døevìné korálky nelakované O25 mm;6.0;11.3;5.3;46.9;50
 127911/241251;Døevìné korálky nelakované O25 mm;13.8;19.0;5.2;27.37;30
 139736/241251;Døevìné korálky nelakované O25 mm;414.0;457.4;43.4;9.49;10
@@ -62658,9 +62659,9 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 127948/241295;Døevìné korálky nelakované O16 mm;37.5;90.2;52.7;58.43;60
 127949/241295;Døevìné korálky nelakované O16 mm;150.0;234.7;84.7;36.09;40
 127950/241295;Døevìné korálky nelakované O16 mm;375.0;411.4;36.4;8.85;10
-135766/241293;Døevìné korálky nelakované O20 mm;10.1;24.3;14.2;58.44;60
-139813/241293;Døevìné korálky nelakované O20 mm;50.5;79.3;28.8;36.32;40
-139814/241293;Døevìné korálky nelakované O20 mm;121.2;132.1;10.9;8.25;10
+135766/241293;Døevìné korálky nelakované O20 mm;9.2;22.3;13.1;58.74;60
+139813/241293;Døevìné korálky nelakované O20 mm;46.0;72.6;26.6;36.64;40
+139814/241293;Døevìné korálky nelakované O20 mm;110.4;122.0;11.6;9.51;10
 127999/241335;Døevìné korálky nelakované O12 mm;21.0;50.8;29.8;58.66;60
 128000/241335;Døevìné korálky nelakované O12 mm;84.0;130.7;46.7;35.73;40
 128001/241335;Døevìné korálky nelakované O12 mm;168.0;183.9;15.9;8.65;10
@@ -62795,9 +62796,9 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 130337/244867;Sada plastovıch korálkù v boxu zmrzlina;261.7;406.3;144.6;35.59;40
 130348/244873;Sada rokajlù v boxu;55.92;68.4;12.48;18.25;20
 130349/244873;Sada rokajlù v boxu;335.52;369.1;33.58;9.1;10
-130353/244877;Døevìné korálky O20 mm;10.6;25.7;15.1;58.75;60
-130354/244877;Døevìné korálky O20 mm;53.0;83.5;30.5;36.53;40
-130355/244877;Døevìné korálky O20 mm;106.0;116.2;10.2;8.78;10
+130353/244877;Døevìné korálky O20 mm;9.9;23.8;13.9;58.4;60
+130354/244877;Døevìné korálky O20 mm;49.5;77.4;27.9;36.05;40
+130355/244877;Døevìné korálky O20 mm;99.0;108.9;9.9;9.09;10
 130410/244904;Døevìné korálky s oblièejem O22 mm;14.0;33.8;19.8;58.58;60
 130411/244904;Døevìné korálky s oblièejem O22 mm;140.0;219.6;79.6;36.25;40
 139397/244904;Døevìné korálky s oblièejem O22 mm;840.0;922.0;82.0;8.89;10
@@ -63418,15 +63419,15 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 151067/271899;Plastové korálky s mermaid efektem O8 mm;11.8;28.3;16.5;58.3;60
 151067/271900;Plastové korálky s mermaid efektem O8 mm;14.2;34.4;20.2;58.72;60
 151067/271901;Plastové korálky s mermaid efektem O8 mm;14.2;34.4;20.2;58.72;60
-151069/271893;Plastové korálky s mermaid efektem O8 mm;275.0;302.5;27.5;9.09;10
-151069/271894;Plastové korálky s mermaid efektem O8 mm;275.0;302.5;27.5;9.09;10
-151069/271895;Plastové korálky s mermaid efektem O8 mm;275.0;302.5;27.5;9.09;10
-151069/271896;Plastové korálky s mermaid efektem O8 mm;275.0;302.5;27.5;9.09;10
-151069/271897;Plastové korálky s mermaid efektem O8 mm;275.0;302.5;27.5;9.09;10
-151069/271898;Plastové korálky s mermaid efektem O8 mm;275.0;302.5;27.5;9.09;10
-151069/271899;Plastové korálky s mermaid efektem O8 mm;275.0;302.5;27.5;9.09;10
-151069/271900;Plastové korálky s mermaid efektem O8 mm;275.0;302.5;27.5;9.09;10
-151069/271901;Plastové korálky s mermaid efektem O8 mm;275.0;302.5;27.5;9.09;10
+151069/271893;Plastové korálky s mermaid efektem O8 mm;250.0;278.3;28.3;10.17;15
+151069/271894;Plastové korálky s mermaid efektem O8 mm;250.0;278.3;28.3;10.17;15
+151069/271895;Plastové korálky s mermaid efektem O8 mm;250.0;278.3;28.3;10.17;15
+151069/271896;Plastové korálky s mermaid efektem O8 mm;250.0;278.3;28.3;10.17;15
+151069/271897;Plastové korálky s mermaid efektem O8 mm;250.0;278.3;28.3;10.17;15
+151069/271898;Plastové korálky s mermaid efektem O8 mm;250.0;278.3;28.3;10.17;15
+151069/271899;Plastové korálky s mermaid efektem O8 mm;250.0;278.3;28.3;10.17;15
+151069/271900;Plastové korálky s mermaid efektem O8 mm;250.0;278.3;28.3;10.17;15
+151069/271901;Plastové korálky s mermaid efektem O8 mm;250.0;278.3;28.3;10.17;15
 151377/271893;Plastové korálky s mermaid efektem O8 mm;100.8;158.8;58.0;36.52;40
 151377/271894;Plastové korálky s mermaid efektem O8 mm;120.0;189.7;69.7;36.74;40
 151377/271895;Plastové korálky s mermaid efektem O8 mm;100.8;158.8;58.0;36.52;40
@@ -63687,24 +63688,24 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 154130/276680;Porcelánové korálky / komponenty k vırobì ozdob a pøívìskù;130.8;143.8;13.0;9.04;10
 154130/276681;Porcelánové korálky / komponenty k vırobì ozdob a pøívìskù;163.5;197.8;34.3;17.34;20
 154130/276682;Porcelánové korálky / komponenty k vırobì ozdob a pøívìskù;122.4;134.7;12.3;9.13;10
-154126/276470;Porcelánové korálky s kvìty O10 mm;11.95;25.2;13.25;52.58;55
-154126/276471;Porcelánové korálky s kvìty O10 mm;11.95;25.2;13.25;52.58;55
-154126/276472;Porcelánové korálky s kvìty O10 mm;11.95;25.2;13.25;52.58;55
-154126/276473;Porcelánové korálky s kvìty O10 mm;11.95;25.2;13.25;52.58;55
-154126/276474;Porcelánové korálky s kvìty O10 mm;11.95;25.2;13.25;52.58;55
-154126/276475;Porcelánové korálky s kvìty O10 mm;11.95;25.2;13.25;52.58;55
-154127/276470;Porcelánové korálky s kvìty O10 mm;71.7;98.4;26.7;27.13;30
-154127/276471;Porcelánové korálky s kvìty O10 mm;71.7;98.4;26.7;27.13;30
-154127/276472;Porcelánové korálky s kvìty O10 mm;71.7;98.4;26.7;27.13;30
-154127/276473;Porcelánové korálky s kvìty O10 mm;71.7;98.4;26.7;27.13;30
-154127/276474;Porcelánové korálky s kvìty O10 mm;71.7;98.4;26.7;27.13;30
-154127/276475;Porcelánové korálky s kvìty O10 mm;71.7;98.4;26.7;27.13;30
-154128/276470;Porcelánové korálky s kvìty O10 mm;143.4;157.5;14.1;8.95;10
-154128/276471;Porcelánové korálky s kvìty O10 mm;143.4;157.5;14.1;8.95;10
-154128/276472;Porcelánové korálky s kvìty O10 mm;143.4;157.5;14.1;8.95;10
-154128/276473;Porcelánové korálky s kvìty O10 mm;143.4;157.5;14.1;8.95;10
-154128/276474;Porcelánové korálky s kvìty O10 mm;143.4;157.5;14.1;8.95;10
-154128/276475;Porcelánové korálky s kvìty O10 mm;143.4;157.5;14.1;8.95;10
+154126/276470;Porcelánové korálky s kvìty O10 mm;12.65;23.7;11.05;46.62;50
+154126/276471;Porcelánové korálky s kvìty O10 mm;12.65;23.7;11.05;46.62;50
+154126/276472;Porcelánové korálky s kvìty O10 mm;12.65;23.7;11.05;46.62;50
+154126/276473;Porcelánové korálky s kvìty O10 mm;12.65;23.7;11.05;46.62;50
+154126/276474;Porcelánové korálky s kvìty O10 mm;12.65;23.7;11.05;46.62;50
+154126/276475;Porcelánové korálky s kvìty O10 mm;12.65;23.7;11.05;46.62;50
+154127/276470;Porcelánové korálky s kvìty O10 mm;75.9;92.6;16.7;18.03;20
+154127/276471;Porcelánové korálky s kvìty O10 mm;75.9;92.6;16.7;18.03;20
+154127/276472;Porcelánové korálky s kvìty O10 mm;75.9;92.6;16.7;18.03;20
+154127/276473;Porcelánové korálky s kvìty O10 mm;75.9;92.6;16.7;18.03;20
+154127/276474;Porcelánové korálky s kvìty O10 mm;75.9;92.6;16.7;18.03;20
+154127/276475;Porcelánové korálky s kvìty O10 mm;75.9;92.6;16.7;18.03;20
+154128/276470;Porcelánové korálky s kvìty O10 mm;151.8;167.0;15.2;9.1;10
+154128/276471;Porcelánové korálky s kvìty O10 mm;151.8;167.0;15.2;9.1;10
+154128/276472;Porcelánové korálky s kvìty O10 mm;151.8;167.0;15.2;9.1;10
+154128/276473;Porcelánové korálky s kvìty O10 mm;151.8;167.0;15.2;9.1;10
+154128/276474;Porcelánové korálky s kvìty O10 mm;151.8;167.0;15.2;9.1;10
+154128/276475;Porcelánové korálky s kvìty O10 mm;151.8;167.0;15.2;9.1;10
 154211/276530;Korálky z nerezové oceli O3 mm;127.0;307.3;180.3;58.67;60
 154211/276531;Korálky z nerezové oceli O3 mm;100.0;0.0;-100.0;0;0
 154212/276530;Korálky z nerezové oceli O3 mm;381.0;599.0;218.0;36.39;40
@@ -68745,7 +68746,7 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 97311/179111;Sada kleští na biuterii;741.96;837.2;95.24;11.38;15
 97311/179112;Sada kleští na biuterii;741.96;837.2;95.24;11.38;15
 73551/180792;Papírová krabièka s prùhledem a provázkem;71.1;171.0;99.9;58.42;60
-73552/180792;Papírová krabièka s prùhledem a provázkem;355.5;598.4;242.9;40.59;45
+73552/180792;Papírová krabièka s prùhledem a provázkem;381.0;565.1;184.1;32.58;35
 73774/181078;Papírová taška 16x22 cm;81.36;145.2;63.84;43.97;45
 96796/181078;Papírová taška 16x22 cm;813.6;1016.4;202.8;19.95;20
 73690/181337;Koenı øemínek šíøe 2 mm, 95 cm;130.6;245.4;114.8;46.78;50
@@ -69157,8 +69158,8 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 122277/207626;Kartonová krabice 34x26x19 cm;107.8;0.0;-107.8;0;0
 122397/207626;Kartonová krabice 34x26x19 cm;539.0;0.0;-539.0;0;0
 92802/207626;Kartonová krabice 34x26x19 cm;21.56;0.0;-21.56;0;0
-93338/208735;Døevìnı stojan na náramky / brıle 37 cm;156.7;259.0;102.3;39.5;40
-95788/208735;Døevìnı stojan na náramky / brıle 37 cm;470.1;543.9;73.8;13.57;15
+93338/208735;Døevìnı stojan na náramky / brıle 37 cm;161.78;277.3;115.52;41.66;45
+95788/208735;Døevìnı stojan na náramky / brıle 37 cm;485.34;603.2;117.86;19.54;20
 100779/208733;Døevìné plato / organizér se sametem;513.28;637.9;124.62;19.54;20
 93334/208733;Døevìné plato / organizér se sametem;256.64;440.0;183.36;41.67;45
 140115/208730;Dekoraèní / vıstavní krejèovská panna 67 cm;940.0;0.0;-940.0;0;0
@@ -69998,8 +69999,8 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 127289/240410;Šatovka, imitace rifloviny;1263.2;1389.4;126.2;9.08;10
 127927/241261;Imitace zvíøecí kùe / koešina zebra;144.23;229.0;84.77;37.02;40
 127928/241261;Imitace zvíøecí kùe / koešina zebra;721.15;916.0;194.85;21.27;25
-127972/241306;Bavlnìná látka / plátno dinosaurus;82.28;123.4;41.12;33.32;35
-127973/241306;Bavlnìná látka / plátno dinosaurus;822.8;1007.9;185.1;18.36;20
+127972/241306;Bavlnìná látka / plátno dinosaurus;92.57;123.4;30.83;24.98;25
+127973/241306;Bavlnìná látka / plátno dinosaurus;925.7;1121.1;195.4;17.43;20
 127968/241303;Bavlnìná látka / plátno konzole;82.28;123.4;41.12;33.32;35
 127968/241304;Bavlnìná látka / plátno konzole;82.28;123.4;41.12;33.32;35
 127969/241303;Bavlnìná látka / plátno konzole;822.8;1007.9;185.1;18.36;20
@@ -73359,17 +73360,17 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 144383/261938;Dekoraèní drátek O0,3 mm sada 12 ks;191.13;233.6;42.47;18.18;20
 144384/261938;Dekoraèní drátek O0,3 mm sada 12 ks;318.55;350.4;31.85;9.09;10
 145022/262760;Kosmetické zrcátko mandala;66.55;112.5;45.95;40.84;45
-145022/262761;Kosmetické zrcátko mandala;38.93;73.1;34.17;46.74;50
+145022/262761;Kosmetické zrcátko mandala;35.94;67.5;31.56;46.76;50
 145022/262762;Kosmetické zrcátko mandala;39.93;84.4;44.47;52.69;55
-145022/262763;Kosmetické zrcátko mandala;38.93;73.1;34.17;46.74;50
+145022/262763;Kosmetické zrcátko mandala;35.94;67.5;31.56;46.76;50
 145022/262764;Kosmetické zrcátko mandala;38.93;73.1;34.17;46.74;50
-145022/262765;Kosmetické zrcátko mandala;38.93;73.1;34.17;46.74;50
+145022/262765;Kosmetické zrcátko mandala;35.94;67.5;31.56;46.76;50
 145023/262760;Kosmetické zrcátko mandala;266.2;292.8;26.6;9.08;10
-145023/262761;Kosmetické zrcátko mandala;155.72;190.4;34.68;18.21;20
+145023/262761;Kosmetické zrcátko mandala;143.76;175.7;31.94;18.18;20
 145023/262762;Kosmetické zrcátko mandala;159.72;219.6;59.88;27.27;30
-145023/262763;Kosmetické zrcátko mandala;155.72;190.4;34.68;18.21;20
+145023/262763;Kosmetické zrcátko mandala;143.76;175.7;31.94;18.18;20
 145023/262764;Kosmetické zrcátko mandala;167.72;205.0;37.28;18.19;20
-145023/262765;Kosmetické zrcátko mandala;155.72;190.4;34.68;18.21;20
+145023/262765;Kosmetické zrcátko mandala;143.76;175.7;31.94;18.18;20
 145003/262693;Kosmetické zrcátko metalické;66.55;112.5;45.95;40.84;45
 145003/262694;Kosmetické zrcátko metalické;23.29;36.6;13.31;36.37;40
 145003/262695;Kosmetické zrcátko metalické;23.29;36.6;13.31;36.37;40
@@ -75163,7 +75164,7 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 149762/269434;Sklenìná lahvièka se šroubovacím víèkem 16x50 mm;50.88;87.1;36.22;41.58;45
 149763/269434;Sklenìná lahvièka se šroubovacím víèkem 16x50 mm;508.8;631.6;122.8;19.44;20
 149798/269613;Sklenìná lahvièka s korkem 10x55 mm;51.84;88.9;37.06;41.69;45
-149799/269613;Sklenìná lahvièka s korkem 10x55 mm;518.4;621.5;103.1;16.59;20
+149799/269613;Sklenìná lahvièka s korkem 10x55 mm;518.4;644.7;126.3;19.59;20
 149800/269614;Sklenìná lahvièka se šroubovacím víèkem 16x68 mm;49.8;85.7;35.9;41.89;45
 149801/269614;Sklenìná lahvièka se šroubovacím víèkem 16x68 mm;448.8;599.7;150.9;25.16;30
 149873/269798;Hrnek Stoklasa v krabièce malı;103.46;129.0;25.54;19.8;20
@@ -75934,12 +75935,12 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 155075/278191;Plovoucí svíèky O4,5 cm;60.96;104.5;43.54;41.67;45
 155075/278192;Plovoucí svíèky O4,5 cm;84.0;0.0;-84.0;0;0
 155076/278191;Plovoucí svíèky O4,5 cm;243.84;303.2;59.36;19.58;20
-114892/208183;Prımek / vzorovka indiánskı motiv šíøe 20 mm;9.15;17.6;8.45;48.01;50
-114892/208184;Prımek / vzorovka indiánskı motiv šíøe 20 mm;9.15;17.6;8.45;48.01;50
-145918/208183;Prımek / vzorovka indiánskı motiv šíøe 20 mm;448.35;605.4;157.05;25.94;30
-145918/208184;Prımek / vzorovka indiánskı motiv šíøe 20 mm;448.35;605.4;157.05;25.94;30
-158682/208183;Prımek / vzorovka indiánskı motiv šíøe 20 mm;452.93;611.5;158.57;25.93;30
-158682/208184;Prımek / vzorovka indiánskı motiv šíøe 20 mm;452.93;611.5;158.57;25.93;30
+114892/208183;Prımek / vzorovka indiánskı motiv šíøe 20 mm;8.58;16.7;8.12;48.62;50
+114892/208184;Prımek / vzorovka indiánskı motiv šíøe 20 mm;8.58;16.7;8.12;48.62;50
+145918/208183;Prımek / vzorovka indiánskı motiv šíøe 20 mm;420.42;571.6;151.18;26.45;30
+145918/208184;Prımek / vzorovka indiánskı motiv šíøe 20 mm;420.42;571.6;151.18;26.45;30
+158682/208183;Prımek / vzorovka indiánskı motiv šíøe 20 mm;424.71;577.4;152.69;26.44;30
+158682/208184;Prımek / vzorovka indiánskı motiv šíøe 20 mm;424.71;577.4;152.69;26.44;30
 132984/247539;Dìtské pletené rukavice palèáky;25.05;33.4;8.35;25.0;25
 132984/247540;Dìtské pletené rukavice palèáky;25.05;0.0;-25.05;0;0
 132984/247541;Dìtské pletené rukavice palèáky;25.05;33.4;8.35;25.0;25
@@ -76710,8 +76711,8 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 158003/282667;Døevìné dno na háèkování / vırobu košíkù ovál 15x25 cm;33.03;56.6;23.57;41.64;45
 158004/282667;Døevìné dno na háèkování / vırobu košíkù ovál 15x25 cm;198.18;246.3;48.12;19.54;20
 81796/146745;Modistická krinolína na vyztuení šatù a vırobu fascinátorù šíøe 25 mm;60.98;182.1;121.12;66.51;70
-81796/146991;Modistická krinolína na vyztuení šatù a vırobu fascinátorù šíøe 25 mm;60.98;182.1;121.12;66.51;70
-81796/163311;Modistická krinolína na vyztuení šatù a vırobu fascinátorù šíøe 25 mm;60.98;182.1;121.12;66.51;70
+81796/146991;Modistická krinolína na vyztuení šatù a vırobu fascinátorù šíøe 25 mm;57.15;172.1;114.95;66.79;70
+81796/163311;Modistická krinolína na vyztuení šatù a vırobu fascinátorù šíøe 25 mm;57.15;172.1;114.95;66.79;70
 123387/153682;"Døevìnı knoflík ètyødírkovı velikost 40""";360.0;396.3;36.3;9.16;10
 123387/154365;"Døevìnı knoflík ètyødírkovı velikost 40""";360.0;396.3;36.3;9.16;10
 123387/200611;"Døevìnı knoflík ètyødírkovı velikost 40""";360.0;396.3;36.3;9.16;10
@@ -77581,12 +77582,12 @@ YB005-01-1628;Bavlnìná šòùra O5 mm;1.7;0.0;-1.7;0;0
 152501/289147;Dámská sportovní èelenka;299.82;329.8;29.98;9.09;10
 166286/139226;Cvoèky na obleèení z nerezové oceli 12x12 mm pyramida;153.0;188.8;35.8;18.96;20
 166286/139227;Cvoèky na obleèení z nerezové oceli 12x12 mm pyramida;153.0;188.8;35.8;18.96;20
-43947/139226;Cvoèky na obleèení z nerezové oceli 12x12 mm pyramida;25.5;43.6;18.1;41.51;45
-43947/139227;Cvoèky na obleèení z nerezové oceli 12x12 mm pyramida;25.5;43.6;18.1;41.51;45
-44186/139226;Cvoèky na obleèení z nerezové oceli 12x12 mm pyramida;255.0;314.6;59.6;18.94;20
+43947/139226;Cvoèky na obleèení z nerezové oceli 12x12 mm pyramida;28.0;47.8;19.8;41.42;45
+43947/139227;Cvoèky na obleèení z nerezové oceli 12x12 mm pyramida;28.0;47.8;19.8;41.42;45
+44186/139226;Cvoèky na obleèení z nerezové oceli 12x12 mm pyramida;280.0;344.9;64.9;18.82;20
 44186/139227;Cvoèky na obleèení z nerezové oceli 12x12 mm pyramida;255.0;314.6;59.6;18.94;20
-44187/139226;Cvoèky na obleèení z nerezové oceli 12x12 mm pyramida;1020.0;1258.4;238.4;18.94;20
-44187/139227;Cvoèky na obleèení z nerezové oceli 12x12 mm pyramida;1020.0;1258.4;238.4;18.94;20
+44187/139226;Cvoèky na obleèení z nerezové oceli 12x12 mm pyramida;1120.0;1379.4;259.4;18.81;20
+44187/139227;Cvoèky na obleèení z nerezové oceli 12x12 mm pyramida;1120.0;1379.4;259.4;18.81;20
 125678/272842;Dámské / dívèí ponoky zimní s koíškem a protiskluzem Emi Ross;96.92;129.2;32.28;24.98;25
 125678/272843;Dámské / dívèí ponoky zimní s koíškem a protiskluzem Emi Ross;96.92;129.2;32.28;24.98;25
 125678/272844;Dámské / dívèí ponoky zimní s koíškem a protiskluzem Emi Ross;107.69;129.2;21.51;16.65;20
@@ -83470,9 +83471,9 @@ DOP121;Úplet s lurexem DOPRODEJ 1 m ZELENİ;10.0;199.0;189.0;94.97;95
 77747/192131;Pánskı kapesník / dárková kazeta;118.7;158.3;39.6;25.02;30
 99995/192130;Pánskı kapesník / dárková kazeta;356.1;431.3;75.2;17.44;20
 99995/192131;Pánskı kapesník / dárková kazeta;356.1;427.3;71.2;16.66;20
-128941/280097;Bavlnìná plenkovina / mušelín husy;33.49;40.9;7.41;18.12;20
+128941/280097;Bavlnìná plenkovina / mušelín husy;44.65;54.6;9.95;18.22;20
 128941/280098;Bavlnìná plenkovina / mušelín husy;49.61;79.0;29.39;37.2;40
-128942/280097;Bavlnìná plenkovina / mušelín husy;334.9;368.3;33.4;9.07;10
+128942/280097;Bavlnìná plenkovina / mušelín husy;446.5;491.1;44.6;9.08;10
 146496/264479;Magnetickı jehelníèek na ruku samonavíjecí;109.26;187.3;78.04;41.67;45
 146498/264479;Magnetickı jehelníèek na ruku samonavíjecí;546.3;679.0;132.7;19.54;20
 148528/267267;Náramek prunı hematitovı;38.12;92.0;53.88;58.57;60
@@ -84603,8 +84604,8 @@ K-B1014110-330;Plastová koncovka 7x17 mm zamaèkávací;0.4;2.5;2.1;84.0;85
 160047/286111;Umìlé mini vìtvièky k aranování, mix 11 ks;232.32;284.6;52.28;18.37;20
 160148/286337;Girlanda z aranovací hmoty na ivé kvìtiny;202.43;347.0;144.57;41.66;45
 160149/286337;Girlanda z aranovací hmoty na ivé kvìtiny;607.29;754.8;147.51;19.54;20
-148167/266771;Bavlnìná látka / plátno kvìty;82.28;123.4;41.12;33.32;35
-148168/266771;Bavlnìná látka / plátno kvìty;822.8;1007.9;185.1;18.36;20
+148167/266771;Bavlnìná látka / plátno kvìty;92.57;123.4;30.83;24.98;25
+148168/266771;Bavlnìná látka / plátno kvìty;925.7;1121.1;195.4;17.43;20
 118355/227095;Dekorace andìl malı;28.31;53.2;24.89;46.79;50
 132079/227095;Dekorace andìl malı;254.79;280.3;25.51;9.1;10
 142651/227095;Dekorace andìl malı;84.93;103.8;18.87;18.18;20
@@ -88284,8 +88285,8 @@ LOOPY4830;Polyesterová pøíze YarnMellow Loopy barva 4830 modrá nevy doprodej 1 k
 120060/242395;Dámská penìenka koená;1437.48;1564.9;127.42;8.14;10
 120060/242960;Dámská penìenka koená;1437.48;1564.9;127.42;8.14;10
 120060/266571;Dámská penìenka koená;1437.48;1564.9;127.42;8.14;10
-139794/255465;Piston na duté nıty oboustranné O5 mm;142.18;156.4;14.22;9.09;10
-139795/255465;Piston na duté nıty oboustranné O5 mm;255.92;281.5;25.58;9.09;10
+139794/255465;Piston na duté nıty oboustranné O5 mm;230.32;281.5;51.18;18.18;20
+139795/255465;Piston na duté nıty oboustranné O5 mm;460.64;506.7;46.06;9.09;10
 120091/87617;Kuel 7x19 cm polystyren;118.6;186.3;67.7;36.34;40
 120092/87617;Kuel 7x19 cm polystyren;1186.0;1304.4;118.4;9.08;10
 42993/87617;Kuel 7x19 cm polystyren;11.86;28.6;16.74;58.53;60
@@ -100059,8 +100060,8 @@ KN2026001;Satén / imitace hedvábí kvìtovanı vzor mint tmavı;121.0;356.0;235.0;66
 147728/287521;Koešinové klapky na uši s pohyblivıma ušima;758.05;942.2;184.15;19.54;20
 147728/287522;Koešinové klapky na uši s pohyblivıma ušima;758.05;942.2;184.15;19.54;20
 147728/287849;Koešinové klapky na uši s pohyblivıma ušima;758.05;942.2;184.15;19.54;20
-165363/293948;Bavlnìná látka / imitace lnu;68.12;83.3;15.18;18.22;20
-165364/293948;Bavlnìná látka / imitace lnu;681.2;749.2;68.0;9.08;10
+165363/293948;Bavlnìná látka / imitace lnu;60.55;74.0;13.45;18.18;20
+165364/293948;Bavlnìná látka / imitace lnu;605.5;666.0;60.5;9.08;10
 164165/292802;Vánoèní ozdoby k zavìšení mix 16 ks;29.65;50.8;21.15;41.63;45
 164165/292803;Vánoèní ozdoby k zavìšení mix 16 ks;29.65;50.8;21.15;41.63;45
 164166/292802;Vánoèní ozdoby k zavìšení mix 16 ks;148.25;184.2;35.95;19.52;20
